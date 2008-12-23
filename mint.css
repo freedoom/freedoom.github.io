@@ -1,0 +1,153 @@
+/*
+        freedoom.css
+        Freedoom style
+        $Id$
+*/
+
+/* Layout */
+@import url(layout.css);
+
+/* stop header elements from pushing divs apart */
+p,h1,h2 { margin: 0; padding-top: 0;}
+h3,h4,h5,h6 { margin: 0; padding-top: 0.5em; padding-bottom:0.5em}
+p { padding-top:0.5em; padding-bottom: 0.5em; }
+
+/* some basics: a colour and font settings */
+body {
+        background-color: #C6DCD1;
+        font-family: arial, helvetica, sans-serif;
+        font-size: small;
+}
+a { color: #226; text-decoration: none; background: #efe; }
+/* background: #C6DCD1;} */
+a:active { color: #000; }
+a:hover { text-decoration: underline; }
+a:visited { font-style: italic; }
+#navigation a { background: none;}
+
+/*
+        the header of the page will occupy the top 96 pixels and all of the
+        width of the page. The site-title will be an image replacement and
+        occupy virtually all of the space.
+
+        The body has a gradient background which starts immediately below the
+        header and tiles left-to-right
+*/
+#header {
+        background: #fff;
+        margin: -16px;
+        margin-bottom: 0;
+        height: 92px;
+}
+#header #site { 
+        padding-top: 16px;
+        width: 351px;
+        height: 80px;
+        text-align: right;  
+        color: #fff;
+        font-size: 0pt;
+        background: url(img/logo.png) no-repeat 0% 50%;
+        width: 100%;
+}
+body { 
+        background-image: url(img/gradient.png);
+        background-repeat: repeat-x;
+        background-position: 0px 92px;
+}
+
+/*
+        the page title from the header will be moved down to form a 'tab'
+        on top of the body area. Similarly, the h3 at the top of the contents
+        div will be a tab.
+*/
+
+/* positioning */ 
+#navigation { top: 128px; }
+/*#contents { top: 128px; }*/
+#header #page {
+        position: absolute;
+        top: 128px;
+        left: 200px;
+        margin-left: 16px;
+}
+/* style */
+#header #page, .nav h3 { /* was #contents h3 */
+        color: #fff;
+        background: #87AD9A; /*#00a;*/
+        border: 2px solid #497D63; /* #000;*/
+        border-bottom: none;
+        height: 24px;
+
+        font-weight: bold;
+        font-size: 11pt;
+        vertical-align: middle;
+        text-align: center;
+        padding-left: 1em;
+        padding-right: 1em;
+}
+.nav h3 { width: 50%; padding-top:0; padding-bottom:0;}
+/*#contents h3 { width: 50%; }*/
+
+/*
+        now need to push the main portion of the page down to fit below the
+        tab title
+*/
+
+#main { 
+	margin-top: 62px; 
+/* http://tantek.com/CSS/Examples/boxmodelhack.html */
+	voice-family: "\"}\""; 
+	voice-family:inherit;
+	margin-top: 60px;
+
+}
+html>body #main {
+	margin-top: 62px;
+}
+/* vertical border + tab height + tab borders + tab offset
+   2                 24           4             36       off by 4? */ 
+
+.nav ul {
+	margin-left: 0;
+	padding-left: 0.5em;
+	padding-top: 0.5em;
+	padding-bottom: 0.5em;
+}
+/*#contents ul, #main, #footer {*/
+.nav ul, #main, #footer, .nav p {
+        background: #fff; 
+        border: 2px solid #497D63; /* #000;*/
+}
+        
+/*#contents ul ul { border: none; padding-top: none;}*/
+.nav ul    { list-style: none; }
+.nav ul ul { list-style: disc; }
+.nav ul ul { 
+	border: none; 
+	padding-top: 0; 
+	margin-left: 2em;
+	padding-left: 0;
+}
+
+#main table {
+/*border-collapse:separate;
+border:solid #fff:;
+border-spacing:2px;*/
+}
+
+/* these are butt-ugly, sorry :P
+  TABLE      { border: outset 10pt; 
+               border-collapse: separate;
+               border-spacing: 15pt }
+  TD         { border: inset 5pt }
+  TD.special { border: inset 10pt }  /* The top-left cell 
+       
+*/
+table { width: 100%; }
+table,th,td,tr {margin: 0; border-spacing: 0;}
+th { text-align: center; background: #87AD9A; color: #fff; }
+td,th { border: solid 1px #497D63; }
+table { border: solid 2px #497D63; }
+/*th { border-bottom: double 3px #497D63; }*/
+img { margin: 1em; }
+a img { border: 0; }
