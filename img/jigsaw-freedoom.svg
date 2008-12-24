@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+"http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
+<svg
+   id="svg1"
+   sodipodi:version="0.33"
+   inkscape:version="0.38.1"
+   width="240pt"
+   height="190pt"
+   sodipodi:docname="freedoom.svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.4732669"
+     inkscape:cx="231.56258"
+     inkscape:cy="699.51395"
+     inkscape:window-width="1598"
+     inkscape:window-height="1098"
+     showgrid="true"
+     snaptogrid="true"
+     showguides="true"
+     snaptoguides="true"
+     inkscape:window-x="0"
+     inkscape:window-y="37" />
+  <path
+     style="font-size:12.000;fill:#00ff00;fill-rule:evenodd;stroke:#000000;stroke-width:5.204165;"
+     d="M 283.4646 219.7834 L 56.10228 219.7835 L 56.10228 166.6339 C 36.90938 184.3504 17.71648 166.6339 17.71648 148.9173 C 17.71648 131.2007 36.90938 113.4842 56.10228 131.2007 L 56.10228 113.4842 C 75.29518 131.2007 94.48808 113.4842 94.48808 95.76756 C 94.48808 78.05106 75.29518 60.33446 56.10228 78.05106 L 56.10228 24.90146 L 283.4646 24.90146 L 283.4646 219.7834 z "
+     id="path825"
+     sodipodi:nodetypes="ccczcczcccc" />
+  <text
+     style="fill:black;stroke:none;font-family:Arial;font-style:normal;font-weight:normal;font-size:32.00000;fill-opacity:1;stroke-opacity:1;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt;text-anchor:middle;writing-mode:lr;"
+     x="192.513641"
+     y="118.673958"
+     id="text563"
+     sodipodi:linespacing="100%">
+    <tspan
+       x="192.513641"
+       y="118.673958"
+       sodipodi:role="line"
+       id="tspan572">FreeDoom</tspan>
+  </text>
+</svg>
