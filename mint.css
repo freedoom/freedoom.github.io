@@ -39,17 +39,17 @@ a:visited { font-style: italic; }
         margin-bottom: 0;
         height: 92px;
 }
-#header #site { 
+#header #site {
         padding-top: 16px;
         width: 351px;
         height: 80px;
-        text-align: right;  
+        text-align: right;
         color: #fff;
         font-size: 0pt;
         background: url(img/logo.png) no-repeat 0% 50%;
         width: 100%;
 }
-body { 
+body {
         background-image: url(img/gradient.png);
         background-repeat: repeat-x;
         background-position: 0px 92px;
@@ -61,7 +61,7 @@ body {
         div will be a tab.
 */
 
-/* positioning */ 
+/* positioning */
 #navigation { top: 128px; }
 /*#contents { top: 128px; }*/
 #header #page {
@@ -93,40 +93,40 @@ body {
         tab title
 */
 
-#main { 
-	margin-top: 62px; 
+#main {
+    margin-top: 62px;
 /* http://tantek.com/CSS/Examples/boxmodelhack.html */
-	voice-family: "\"}\""; 
-	voice-family:inherit;
-	margin-top: 60px;
+    voice-family: "\"}\"";
+    voice-family:inherit;
+    margin-top: 60px;
 
 }
 html>body #main {
-	margin-top: 62px;
+    margin-top: 62px;
 }
 /* vertical border + tab height + tab borders + tab offset
-   2                 24           4             36       off by 4? */ 
+   2                 24           4             36       off by 4? */
 
 .nav ul {
-	margin-left: 0;
-	padding-left: 0.5em;
-	padding-top: 0.5em;
-	padding-bottom: 0.5em;
+    margin-left: 0;
+    padding-left: 0.5em;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
 }
 /*#contents ul, #main, #footer {*/
 .nav ul, #main, #footer, .nav p {
-        background: #fff; 
+        background: #fff;
         border: 2px solid #497D63; /* #000;*/
 }
-        
+
 /*#contents ul ul { border: none; padding-top: none;}*/
 .nav ul    { list-style: none; }
 .nav ul ul { list-style: disc; }
-.nav ul ul { 
-	border: none; 
-	padding-top: 0; 
-	margin-left: 2em;
-	padding-left: 0;
+.nav ul ul {
+    border: none;
+    padding-top: 0;
+    margin-left: 2em;
+    padding-left: 0;
 }
 
 #main table {
@@ -136,12 +136,12 @@ border-spacing:2px;*/
 }
 
 /* these are butt-ugly, sorry :P
-  TABLE      { border: outset 10pt; 
+  TABLE      { border: outset 10pt;
                border-collapse: separate;
                border-spacing: 15pt }
   TD         { border: inset 5pt }
-  TD.special { border: inset 10pt }  /* The top-left cell 
-       
+  TD.special { border: inset 10pt }  /* The top-left cell
+
 */
 table { width: 100%; }
 table,th,td,tr {margin: 0; border-spacing: 0;}
