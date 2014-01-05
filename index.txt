@@ -1,0 +1,57 @@
+Freedoom
+========
+:backend: html5
+:theme: flask
+:toc2:
+
+About
+-----
+
+The Freedoom Project aims to create a complete game based on the open
+source _Doom_ engine.
+
+Download
+--------
+
+_Freedoom_ is available in three versions, representing different
+level packs and compatibility with multiple versions of the classic
+_Doom_ franchise from id Software.
+
+https://github.com/freedoom/freedoom/releases/download/v0.8/freedoom-iwad-v0.8.zip[Freedoom]::
+
+    The primary _Freedoom_ version, featuring 32 levels in one massive
+    chapter. It is compatible with _Doom II_ mods.
+
+https://github.com/freedoom/freedoom/releases/download/v0.8/freedoom-ultimate-v0.8.zip[Ultimate Freedoom]::
+
+    An alternative game, with 36 different levels split into four
+    chapters. It is compatible with mods for the original _Doom_
+    and _The Ultimate Doom_.
+
+https://github.com/freedoom/freedoom/releases/download/v0.8/freedm-v0.8.zip[FreeDM]::
+
+    Beat your friends in these 32 levels designed for competitive
+    deathmatch play.
+
+_Freedoom_ requires the additional download of a game engine to
+play. The following three ports are highly recommended by the
+_Freedoom_ project:
+
+http://odamex.net/[Odamex]::
+
+    Odamex is a premier engine focusing on an old school game-play
+    look and feel and specializing in multiplayer capabilities.
+
+http://dengine.net/[Doomsday Engine]::
+
+    Doomsday is an advanced engine with an emphasis on graphical
+    enhancements.
+
+http://prboom.sourceforge.net/[PrBoom]::
+
+    PrBoom maintains a prestiguous status with speedrunners due to
+    high compatibility with many historical engines.
+
+These engines, and http://doomwiki.org/wiki/Source_port[many others],
+are made possible thanks to the _Doom_ engine being released as
+http://opensource.org/[open source] in 1997.
