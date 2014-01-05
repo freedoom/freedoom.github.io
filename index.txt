@@ -14,7 +14,8 @@ Introduction
 ------------
 
 The Freedoom project aims to create a complete
-http://opensource.org/[open source] game based on the _Doom_ engine.
+https://www.gnu.org/philosophy/free-sw.html[free content] game based
+on the _Doom_ engine.
 
 Combined with the engine, Freedoom is also compatible with game
 modifications (`mods') made for the original _Doom_ games, made by
