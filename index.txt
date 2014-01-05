@@ -19,7 +19,7 @@ on the _Doom_ engine.
 
 Combined with the engine, Freedoom is also compatible with game
 modifications (`mods') made for the original _Doom_ games, made by
-_Doom_ fans and artists over the last 20 years.
+_Doom_ fans and artists over the decades.
 
 For more information, or to aid in the effort, please see:
 

@@ -46,9 +46,9 @@ Freedoom has multiple purposes:
 
     1. *To create a complete free game based on the _Doom_ engine.* +
         A large http://www.doomworld.com/idgames/[library] exists of
-        modifications which have been created for _Doom_ over the past
-        twenty years; Freedoom maintains compatibility with the
-        original IWAD files so that this modifications can be played.
+        modifications which have been created for _Doom_ over the
+        decades; Freedoom maintains compatibility with the original
+        IWAD files so that this modifications can be played.
 
     2. *To create a pool of free game material for people to reuse in
     their own projects*. +
