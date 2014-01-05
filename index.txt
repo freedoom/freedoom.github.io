@@ -4,11 +4,28 @@ Freedoom
 :theme: flask
 :toc2:
 
-About
------
+++++++++++++++++++++++++++++++++++++++++
+include::.forkme.txt[]
+++++++++++++++++++++++++++++++++++++++++
 
-The Freedoom Project aims to create a complete game based on the open
-source _Doom_ engine.
+image::img/frontpagepic.png[alt="Freedoom Screenshot",link="screenshots.html",float="right"]
+
+Introduction
+------------
+
+The Freedoom project aims to create a complete
+http://opensource.org/[open source] game based on the _Doom_ engine.
+
+Combined with the engine, Freedoom is also compatible with game
+modifications (`mods') made for the original _Doom_ games, made by
+_Doom_ fans and artists over the last 20 years.
+
+For more information, or to aid in the effort, please see:
+
+    * link:about.html[What is Freedoom?]
+    * link:screenshots.html[Screenshots]
+    * link:contact.html[Contact Information]
+    * https://github.com/freedoom/freedoom[GitHub Repository]
 
 Download
 --------
