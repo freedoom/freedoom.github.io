@@ -1,0 +1,65 @@
+About Freedoom
+==============
+:backend: html5
+:theme: flask
+:toc2:
+
+++++++++++++++++++++++++++++++++++++++++
+include::.forkme.txt[]
+++++++++++++++++++++++++++++++++++++++++
+
+link:index.html[Back to Home Page]
+
+What is Freedoom?
+-----------------
+
+http://www.idsoftware.com/[id Software] released the source code to
+their classic game,
+http://en.wikipedia.org/wiki/Doom_(video_game)[_Doom_], under the
+https://www.gnu.org/licenses/old-licenses/gpl-2.0.html[GNU General
+Public License]. This means that the engine which powers _Doom_ is
+http://www.gnu.org/philosophy/free-sw.html[free software]. However,
+the game engine is only one component of a complete game.
+
+The _Doom_ engine uses an http://doomwiki.org/wiki/IWAD[*IWAD*] file
+to store all of the game data. This contains the raw data used by the
+game -- the artwork, sound effects, levels, and everything which
+defines _Doom_ as a game. Until now, one of the original non-free
+files was still needed in order to play _Doom_.
+
+The _Freedoom_ project aims at collaboratively creating a free IWAD
+file. Combined with the source code, this results in a complete game
+based on the _Doom_ engine.
+
+// Is there a better way to align this?
++++++++++++++++++++++++++
+<div style="text-align: center;">
+image:img/jigsaw-doom-src.png[]
+image:img/jigsaw-freedoom.png[]
+</div>
++++++++++++++++++++++++++
+
+The purpose of Freedoom
+-----------------------
+
+Freedoom has multiple purposes:
+
+    1. *To create a complete free game based on the _Doom_ engine.* +
+        A large http://www.doomworld.com/idgames/[library] exists of
+        modifications which have been created for _Doom_ over the past
+        twenty years; Freedoom maintains compatibility with the
+        original IWAD files so that this modifications can be played.
+
+    2. *To create a pool of free game material for people to reuse in
+    their own projects*. +
+        All material in the _Freedoom_ project is released under a
+        https://github.com/freedoom/freedoom/blob/master/COPYING[modified
+        BSD license], allowing people to reuse it as they
+        wish. _Freedoom_ contains a large collection of material. This
+        includes levels, sound effects, graphics, and music.
+
+    3. *To serve as a demonstration of the talent and creativity of
+    the _Doom_ community.* +
+        Despite its age, _Doom_ has retained a surprisingly large
+        community of fans. _Freedoom_ is developed collaboratively by
+        fans of the original _Doom_ games.
