@@ -14,10 +14,43 @@ Combined with the engine, Freedoom is also compatible with game
 modifications (`mods') made for the original _Doom_ games, made by
 _Doom_ fans and artists over the decades.
 
-For more information, or to aid in the effort, please see:
+For more information, see the link:about.html[What is Freedoom?] page.
 
-    * link:about.html[What is Freedoom?]
-    * link:download.html[Download]
-    * link:screenshots.html[Screenshots]
-    * link:contact.html[Contact Information]
-    * https://github.com/freedoom/freedoom[GitHub Repository]
+Project News
+------------
+
+2014-01-01: Freedoom 0.8 released
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Those responsible for the lack of releases since too long ago have
+been sacked. Not really, but enjoy a shiny new release, and we'll
+promise to stop with the -rc and -beta stuff from here on!
+
+2012-05-12: Freedoom 0.8-beta1 released
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+It's been a long way since 0.7, hope it's worth it! There are a lot of
+changes to be had in this version. Please download and help work out
+the bugs to make this the best release yet.
+
+2011-01-22: Freedoom 0.7 released
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+It's been a few years since 0.6, and we are now at the next major
+version number for Freedoom, 0.7. There are plenty of new materials to
+be found, please check it out!
+
+2010-09-15: Freedoom 0.7-rc1 released
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Over a year, and we're finally entering the release candidate stage
+for 0.7! Lots of new changes are in this release, it's a major
+update. Please check it out and help us polish this release!
+
+2009-06-15: Freedoom 0.6.4 released
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+A copyright violation has been found in the Freedoom tree and has been
+removed. This is the only change from 0.6.3, but it removes much of
+the music. All previous versions are pulled from the download area at
+the moment since they were all tainted.
