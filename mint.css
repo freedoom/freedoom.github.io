@@ -1,7 +1,6 @@
 /*
         freedoom.css
         Freedoom style
-        $Id$
 */
 
 /* Layout */
@@ -48,6 +47,13 @@ a:visited { font-style: italic; }
         font-size: 0pt;
         background: url(img/logo.png) no-repeat 0% 50%;
         width: 100%;
+}
+#header #forkme {
+        position: absolute;
+        margin: 0;
+        top: 0;
+        right: 0;
+        border: 0;
 }
 body {
         background-image: url(img/gradient.png);

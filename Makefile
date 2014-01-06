@@ -1,6 +1,6 @@
 # Requires AsciiDoc to be installed.
 
-ASCIIDOC=asciidoc
+ASCIIDOC=asciidoc --conf-file=freedoom-layout.conf --theme=mint
 
 PAGES=$(patsubst %.txt,%.html,$(wildcard *.txt))
 

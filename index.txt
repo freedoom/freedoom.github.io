@@ -1,17 +1,10 @@
-Freedoom
-========
+Home
+====
 :backend: html5
-:theme: flask
-:toc2:
-
-++++++++++++++++++++++++++++++++++++++++
-include::.forkme.txt[]
-++++++++++++++++++++++++++++++++++++++++
+:linkcss:
+:disable-javascript:
 
 image::img/frontpagepic.png[alt="Freedoom Screenshot",link="screenshots.html",float="right"]
-
-Introduction
-------------
 
 The Freedoom project aims to create a complete
 https://www.gnu.org/philosophy/free-sw.html[free content] game based
