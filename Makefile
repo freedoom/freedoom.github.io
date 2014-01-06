@@ -1,12 +1,15 @@
-# Requires AsciiDoc to be installed.
+# Requires AsciiDoc and dos2unix to be installed.
 
-ASCIIDOC=asciidoc --conf-file=freedoom-layout.conf --theme=mint
+ASCIIDOC=asciidoc
+ADOCOPTS=--conf-file=freedoom-layout.conf --theme=mint
+DOS2UNIX=dos2unix
 
 PAGES=$(patsubst %.txt,%.html,$(wildcard *.txt))
 
 .SUFFIXES: .txt .html
 
 .txt.html:
-	$(ASCIIDOC) $*.txt
+	$(ASCIIDOC) $(ADOCOPTS) $*.txt
+	$(DOS2UNIX) $*.html
 
 all: $(PAGES)
