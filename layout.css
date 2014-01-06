@@ -35,7 +35,7 @@ hr.divider { display: none; }
 /* was #contents */
 .nav ul { /* this stuff shouldn't be a layout */
 /*        list-style: none;
-        padding-left: 0; /* mozilla, konqueror 
+        padding-left: 0; /* mozilla, konqueror
         margin-left: 0; /* ie  */
         margin-top: 0;
 }
