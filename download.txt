@@ -38,9 +38,9 @@ http://dengine.net/[Doomsday Engine]::
     Doomsday is an advanced engine with an emphasis on graphical
     enhancements.
 
-http://prboom.sourceforge.net/[PrBoom]::
+http://prboom-plus.sourceforge.net/[PrBoom+]::
 
-    PrBoom is often prefered by speedrunners due to its high
+    PrBoom+ is often prefered by speedrunners due to its high
     compatibility with historical engines.
 
 These engines, and http://doomwiki.org/wiki/Source_port[many others],
