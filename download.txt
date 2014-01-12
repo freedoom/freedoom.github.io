@@ -1,8 +1,6 @@
 Download
 ========
 :backend: html5
-:linkcss:
-:disable-javascript:
 
 _Freedoom_ is available in three versions, representing different
 level packs and compatibility with multiple versions of the classic

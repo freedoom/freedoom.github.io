@@ -1,8 +1,6 @@
 What is Freedoom?
 =================
 :backend: html5
-:linkcss:
-:disable-javascript:
 
 http://www.idsoftware.com/[id Software] released the source code to
 their classic game,
