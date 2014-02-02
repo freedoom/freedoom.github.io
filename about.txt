@@ -2,53 +2,71 @@ What is Freedoom?
 =================
 :backend: html5
 
+A free FPS action game
+----------------------
+
+image::img/screenshots/th_0.8_map08.jpg[alt="Freedoom Screenshot",link="img/screenshots/0.8_map08.png",float="right"]
+
+The Freedoom project aims to create a complete first person shooter
+game that is http://www.gnu.org/philosophy/free-sw.html[free software].
 http://www.idsoftware.com/[id Software] released the source code to
 their classic game,
 http://en.wikipedia.org/wiki/Doom_(video_game)[_Doom_], under the
 https://www.gnu.org/licenses/old-licenses/gpl-2.0.html[GNU General
-Public License]. This means that the engine which powers _Doom_ is
-http://www.gnu.org/philosophy/free-sw.html[free software]. However,
-the game engine is only one component of a complete game.
+Public License]. This means that the program code that powers
+_Doom_ is free; Freedoom complements this with free levels, artwork,
+sound effects and music to make a completely free game.
 
-The _Doom_ engine uses an http://doomwiki.org/wiki/IWAD[*IWAD*] file
-to store all of the game data. This contains the raw data used by the
-game -- the artwork, sound effects, levels, and everything which
-defines _Doom_ as a game. Until now, one of the original non-free
-files was still needed in order to play _Doom_.
+Freedoom is actually three games in one, consisting of two single
+player campaigns and one set of levels intended for multiplayer
+deathmatch.
 
-The _Freedoom_ project aims at collaboratively creating a free IWAD
-file. Combined with the source code, this results in a complete game
-based on the _Doom_ engine.
+++++
+<div style="clear:both;"></div>
+++++
 
-// Is there a better way to align this?
-+++++++++++++++++++++++++
-<div style="text-align: center;">
-image:img/jigsaw-doom-src.png[]
-image:img/jigsaw-freedoom.png[]
-</div>
-+++++++++++++++++++++++++
+A compatible replacement
+------------------------
 
-The purpose of Freedoom
------------------------
+++++
+<iframe width="240" height="180"
+        src="https://www.youtube.com/embed/3wPf3CoOVoI?html5=1"
+	style="float:right; margin: 13px;" frameborder="0"
+	allowfullscreen></iframe>
+++++
 
-Freedoom has multiple purposes:
+There is a massive 20 year
+http://doomwiki.org/wiki/Idgames_archive[back catalog]
+containing thousands of Doom mods made by fans of the original
+game. Freedoom is compatible with these mods and allows them to be
+played without the need to use any non-free software.
 
-    1. *To create a complete free game based on the _Doom_ engine.* +
-        A large http://www.doomworld.com/idgames/[library] exists of
-        modifications which have been created for _Doom_ over the
-        decades; Freedoom maintains compatibility with the original
-        IWAD files so that this modifications can be played.
+Just like how https://www.gnu.org/[the GNU project] was started to
+develop a free operating system to replace Unix, we aim to provide a
+free replacement for Doom. If you have artistic skills
+(visual, musical, or maybe you just like making levels!) then you can
+help us achieve that aim by contributing to the project!
 
-    2. *To create a pool of free game material for people to reuse in
-    their own projects*. +
-        All material in the _Freedoom_ project is released under a
-        https://github.com/freedoom/freedoom/blob/master/COPYING[modified
-        BSD license], allowing people to reuse it as they
-        wish. _Freedoom_ contains a large collection of material. This
-        includes levels, sound effects, graphics, and music.
+++++
+<div style="clear:both;"></div>
+++++
 
-    3. *To serve as a demonstration of the talent and creativity of
-    the _Doom_ community.* +
-        Despite its age, _Doom_ has retained a surprisingly large
-        community of fans. _Freedoom_ is developed collaboratively by
-        fans of the original _Doom_ games.
+A collection of reusable artwork
+--------------------------------
+
+image::img/flats-thumb.png[alt="Screenshot showing textures",float="right"]
+
+Freedoom contains hundreds of original textures, sound effects
+and music tracks that can be reused royalty-free by Doom level authors
+and other independent game developers.
+
+Freedoom is liberally licensed under the
+https://en.wikipedia.org/wiki/BSD_licenses[BSD license] - all that is
+required is that you include a copyright statement that credits the
+Freedoom project.
+
+
+++++
+<div style="clear:both;"></div>
+++++
+
