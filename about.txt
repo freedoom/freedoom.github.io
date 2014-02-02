@@ -7,8 +7,9 @@ A free FPS action game
 
 image::img/screenshots/th_0.8_map08.jpg[alt="Freedoom Screenshot",link="img/screenshots/0.8_map08.png",float="right"]
 
-The Freedoom project aims to create a complete first person shooter
-game that is http://www.gnu.org/philosophy/free-sw.html[free software].
+The Freedoom project aims to create a complete
+http://www.gnu.org/philosophy/free-sw.html[free content] first person
+shooter game.
 http://www.idsoftware.com/[id Software] released the source code to
 their classic game,
 http://en.wikipedia.org/wiki/Doom_(video_game)[_Doom_], under the
@@ -25,8 +26,8 @@ deathmatch.
 <div style="clear:both;"></div>
 ++++
 
-A compatible replacement
-------------------------
+A compatible free replacement
+-----------------------------
 
 ++++
 <iframe width="240" height="180"
@@ -37,11 +38,13 @@ A compatible replacement
 
 There is a massive 20 year
 http://doomwiki.org/wiki/Idgames_archive[back catalog]
-containing thousands of Doom mods made by fans of the original
-game. Freedoom is compatible with these mods and allows them to be
-played without the need to use any non-free software.
+containing thousands of Doom levels and other "mods" made by
+fans of the original game. Freedoom aims to be compatible with these
+and allows most to be played without the need to use
+non-free software. The video to the right shows a well-known fan-made
+Doom mod running under Freedoom.
 
-Just like how https://www.gnu.org/[the GNU project] was started to
+Just as https://www.gnu.org/[the GNU project] was started to
 develop a free operating system to replace Unix, we aim to provide a
 free replacement for Doom. If you have artistic skills
 (visual, musical, or maybe you just like making levels!) then you can
