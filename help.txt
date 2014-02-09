@@ -1,0 +1,62 @@
+Help Freedoom!
+==============
+
+Freedoom is always looking for help. This is a short list of some of
+the resources that the project is in need of. If you can help out,
+please check the forum or IRC links in the sidebar to get in contact!
+
+Artists
+-------
+
+**Flame bringer sprites**: Freedoom needs sprites for the "flame
+bringer" monster. This is a monster encountered in Freedoom Phase 2
+which has the ability to raise other monsters from the dead and set
+the player on fire. If you're an artist or 3D modeller you can help
+out here.
+
+**Pain Lord**: Freedoom has sprites for its Pain Lord monster, but
+they are based on some incomplete concept sketches, and in need of
+colorizing and cleaning up. Ideally, additional animation frames are
+needed to fully develop the monster.
+
+**FreeDM logo**: FreeDM, Freedoom's deathmatch spinoff project, is
+looking for a logo. This will appear on the title screen and in the
+game on billboards. See
+http://www.doomworld.com/vb/freedoom/66962-freedm-needs-a-logo/[this discussion thread]
+for more information.
+
+**Menu font and status bar**: The font used for Freedoom's menu and
+intermission screen graphics is not very good and in need of
+replacing. The status bar (shows the current health, armor, etc.) also
+needs improving, and having a consistent look between the two would be
+good.
+
+Musicians
+---------
+
+**In-level music**: Freedoom needs music for its levels. Presently
+some of the music tracks are serving double duty for multiple levels.
+FreeDM, the deathmatch spinoff project, also needs some appropriate
+music for its levels.
+
+**OPL synth instruments**: If you like chiptunes, particularly for the
+Yamaha OPL2/OPL3 synth chips, then Freedoom needs instruments for its
+OPL MIDI instrument bank. Check out the
+https://github.com/freedoom/freedoom/tree/master/lumps/genmidi[documentation]
+to find out more.
+
+Level authors
+-------------
+
+**New levels**: Freedoom is still in need of new single player levels
+in order to get a complete set of levels for both of its single player
+campaigns.  If you see a level that is just a square room with an exit
+switch, that is a currently unfilled slot. If you are experienced
+making Doom levels and can spend the time to make a level for
+Freedoom, or maybe you have levels you've made and can donate to the
+project, please get in touch.
+
+**Bugs**: Sometimes bugs get reported in Freedoom's levels. Check out the
+https://github.com/freedoom/freedoom/issues?labels=levels&page=1&state=open[bug list]
+to see what currently needs fixing.
+
