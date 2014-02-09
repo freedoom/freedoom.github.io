@@ -48,7 +48,7 @@ Just as https://www.gnu.org/[the GNU project] was started to
 develop a free operating system to replace Unix, we aim to provide a
 free replacement for Doom. If you have artistic skills
 (visual, musical, or maybe you just like making levels!) then you can
-help us achieve that aim by contributing to the project!
+link:help.html[help us] achieve that aim by contributing to the project!
 
 ++++
 <div style="clear:both;"></div>
