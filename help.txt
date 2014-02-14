@@ -38,6 +38,8 @@ Musicians
 some of the music tracks are serving double duty for multiple levels.
 FreeDM, the deathmatch spinoff project, also needs some appropriate
 music for its levels.
+For a current list of tracks that the project needs, see
+http://freedoom.soulsphere.org/music-duplicates.shtml[here].
 
 **OPL synth instruments**: If you like chiptunes, particularly for the
 Yamaha OPL2/OPL3 synth chips, then Freedoom needs instruments for its
