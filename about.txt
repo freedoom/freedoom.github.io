@@ -29,12 +29,7 @@ deathmatch.
 A compatible free replacement
 -----------------------------
 
-++++
-<iframe width="240" height="180"
-        src="https://www.youtube.com/embed/3wPf3CoOVoI?html5=1"
-	style="float:right; margin: 13px;" frameborder="0"
-	allowfullscreen></iframe>
-++++
+youtube::3wPf3CoOVoI[width=240,height=180,style="float:right;"]
 
 There is a massive 20 year
 http://doomwiki.org/wiki/Idgames_archive[back catalog]
