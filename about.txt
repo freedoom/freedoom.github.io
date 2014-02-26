@@ -9,7 +9,12 @@ image::img/screenshots/th_0.8_map08.jpg[alt="Freedoom Screenshot",link="img/scre
 
 The Freedoom project aims to create a complete
 http://www.gnu.org/philosophy/free-sw.html[free content] first person
-shooter game.
+shooter game. But Freedoom by itself is just the raw material for a
+game: it must be paired with a
+http://doomwiki.org/wiki/Category:Boom_compatible[compatible] game
+engine to be played. The link:download.html[download] page lists some
+recommended ones.
+
 http://www.idsoftware.com/[id Software] released the source code to
 their classic game,
 http://en.wikipedia.org/wiki/Doom_(video_game)[_Doom_], under the
@@ -20,10 +25,10 @@ sound effects and music to make a completely free game.
 
 Freedoom is actually three games in one, consisting of two single
 player campaigns and one set of levels intended for multiplayer
-deathmatch.
+deathmatch (FreeDM).
 
 ++++
-<div style="clear:both;"></div>
+<div style="clear:both; height: 15px;"></div>
 ++++
 
 A compatible free replacement
@@ -46,7 +51,7 @@ free replacement for Doom. If you have artistic skills
 link:help.html[help us] achieve that aim by contributing to the project!
 
 ++++
-<div style="clear:both;"></div>
+<div style="clear:both; height: 15px;"></div>
 ++++
 
 A collection of reusable artwork
@@ -60,8 +65,8 @@ and other independent game developers.
 
 Freedoom is liberally licensed under the
 https://en.wikipedia.org/wiki/BSD_licenses[BSD license] - all that is
-required is that you include a copyright statement that credits the
-Freedoom project.
+required is that you include a short copyright statement that credits
+the Freedoom project.
 
 
 ++++
