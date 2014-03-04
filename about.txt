@@ -1,6 +1,5 @@
 What is Freedoom?
 =================
-:backend: html5
 
 A free FPS action game
 ----------------------

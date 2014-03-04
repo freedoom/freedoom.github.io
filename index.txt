@@ -1,6 +1,5 @@
 Home
 ====
-:backend: html5
 
 image::img/frontpagepic.png[alt="Freedoom Screenshot",link="screenshots.html",float="right"]
 
