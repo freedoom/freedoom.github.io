@@ -62,3 +62,14 @@ project, please get in touch.
 https://github.com/freedoom/freedoom/issues?labels=levels&page=1&state=open[bug list]
 to see what currently needs fixing.
 
+Bug reports
+-----------
+
+Freedoom is an ongoing project, and issues may always be found. The
+prefered place, and the one that will not have reports lost in memory,
+is the https://github.com/freedoom/freedoom/issues[GitHub issue
+tracker]. Information about all kinds of issues is much appreciated,
+but if you find an issue in the latest release, don't be so quick to
+report it! Check the http://freedoom.soulsphere.org/[latest and
+greatest builds] to see if the problem still persists there: much of
+Freedoom may have changed in the interim!
