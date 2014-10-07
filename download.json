@@ -1,0 +1,23 @@
+{
+  "doom.wad": {
+    "description": "Ultimate Doom compatible IWAD",
+    "md5": "30095b256dd3a1566bbc30286f72bc47",
+    "name": "Ultimate Freedoom",
+    "url": "https://github.com/freedoom/freedoom/releases/download/v0.8/freedoom-ultimate-v0.8.zip",
+    "version": "0.8"
+  },
+  "doom2.wad": {
+    "description": "Doom II compatible IWAD",
+    "md5": "e3668912fc37c479b2840516c887018b",
+    "name": "Freedoom",
+    "url": "https://github.com/freedoom/freedoom/releases/download/v0.8/freedoom-iwad-v0.8.zip",
+    "version": "0.8"
+  },
+  "freedm.wad": {
+    "description": "Deathmatch IWAD",
+    "md5": "05859098bf191899903ef343afba369d",
+    "name": "FreeDM",
+    "url": "https://github.com/freedoom/freedoom/releases/download/v0.8/freedm-v0.8.zip",
+    "version": "0.8"
+  }
+}
