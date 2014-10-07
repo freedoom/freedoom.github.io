@@ -8,8 +8,8 @@ please check the forum or IRC links in the sidebar to get in contact!
 Artists
 -------
 
-**Flame bringer sprites**: Freedoom needs sprites for the "flame
-bringer" monster. This is a monster encountered in Freedoom Phase 2
+**Flame bringer sprites**: Freedoom needs sprites for the ``flame
+bringer'' monster. This is a monster encountered in Freedoom: Phase 2
 which has the ability to raise other monsters from the dead and set
 the player on fire. If you're an artist or 3D modeller you can help
 out here.
