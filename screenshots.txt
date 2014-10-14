@@ -4,6 +4,8 @@ Screenshots
 Phase 1 0.9
 -----------
 
+The following screenshots are from _Freedoom: Phase 1_ 0.9:
+
 image:img/screenshots/th_phase1-0.9_01.jpg[link="img/screenshots/phase1-0.9_01.png"]
 image:img/screenshots/th_phase1-0.9_02.jpg[link="img/screenshots/phase1-0.9_02.png"]
 image:img/screenshots/th_phase1-0.9_03.jpg[link="img/screenshots/phase1-0.9_03.png"]
