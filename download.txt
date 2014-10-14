@@ -62,3 +62,12 @@ Freedoom is a project with constant, active development. If you would
 like to check out the current progress of the project, you may want to
 see an automated http://freedoom.soulsphere.org/[build of the latest
 version in Git].
+
+Previous releases
+-----------------
+
+Freedoom is an old project with many past releases, you may find some
+of them on the https://github.com/freedoom/freedoom/releases[GitHub
+release page]. Unfortunately, many old releases have been officially
+pulled due to copyright violations discovered in the source tree, so
+we can only provide as back as far as 0.6.4.
