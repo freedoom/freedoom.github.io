@@ -52,7 +52,7 @@ Freedoom, or maybe you have levels you've made and can donate to the
 project, please get in touch.
 
 **Bugs**: Sometimes bugs get reported in Freedoom's levels. Check out the
-https://github.com/freedoom/freedoom/issues?labels=levels&page=1&state=open[bug list]
+https://github.com/freedoom/freedoom/labels/levels[bug list]
 to see what currently needs fixing.
 
 Bug reports

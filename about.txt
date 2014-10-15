@@ -7,7 +7,7 @@ A free FPS action game
 image::img/screenshots/th_phase1-0.9_08.jpg[alt="Freedoom Screenshot",link="img/screenshots/phase1-0.9_08.png",float="right"]
 
 The Freedoom project aims to create a complete
-http://www.gnu.org/philosophy/free-sw.html[free content] first person
+https://www.gnu.org/philosophy/free-sw.html[free content] first person
 shooter game. But Freedoom by itself is just the raw material for a
 game: it must be paired with a
 http://doomwiki.org/wiki/Category:Boom_compatible[compatible] game
@@ -16,7 +16,7 @@ recommended ones.
 
 http://www.idsoftware.com/[id Software] released the source code to
 their classic game,
-http://en.wikipedia.org/wiki/Doom_(video_game)[_Doom_], under the
+https://en.wikipedia.org/wiki/Doom_(1993_video_game)[_Doom_], under the
 https://www.gnu.org/licenses/old-licenses/gpl-2.0.html[GNU General
 Public License]. This means that the program code that powers
 _Doom_ is free; Freedoom complements this with free levels, artwork,
