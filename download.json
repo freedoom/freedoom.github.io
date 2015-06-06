@@ -3,21 +3,21 @@
     "description": "Deathmatch IWAD", 
     "md5": "cbb27c5f3c2c44d34843cf63daa627f6", 
     "name": "FreeDM", 
-    "url": "https://github.com/freedoom/freedoom/releases/downloads/v0.9/freedm-0.9.zip", 
+    "url": "https://github.com/freedoom/freedoom/releases/download/v0.9/freedm-0.9.zip", 
     "version": "0.9"
   }, 
   "freedoom1.wad": {
     "description": "Ultimate Doom compatible IWAD", 
     "md5": "aca90cf5ac36e996edc58bd0329b979a", 
     "name": "Freedoom: Phase 1", 
-    "url": "https://github.com/freedoom/freedoom/releases/downloads/v0.9/freedoom-0.9.zip", 
+    "url": "https://github.com/freedoom/freedoom/releases/download/v0.9/freedoom-0.9.zip", 
     "version": "0.9"
   }, 
   "freedoom2.wad": {
     "description": "Doom II compatible IWAD", 
     "md5": "8fa57dbc7687f84528eba39dde3a20e0", 
     "name": "Freedoom: Phase 2", 
-    "url": "https://github.com/freedoom/freedoom/releases/downloads/v0.9/freedoom-0.9.zip", 
+    "url": "https://github.com/freedoom/freedoom/releases/download/v0.9/freedoom-0.9.zip", 
     "version": "0.9"
   }
 }
