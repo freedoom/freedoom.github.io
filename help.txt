@@ -19,11 +19,6 @@ they are based on some incomplete concept sketches, and in need of
 colorizing and cleaning up. Ideally, additional animation frames are
 needed to fully develop the monster.
 
-**Status bar**: The background for the status bar (shows the current,
-health, armor, weapons held, ammunition, and keys) needs improving,
-see https://github.com/freedoom/freedoom/issues/45[issue #45] for
-details.
-
 Musicians
 ---------
 
