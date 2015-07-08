@@ -43,7 +43,7 @@ project:
 [horizontal]
 http://odamex.net/[Odamex]::
 
-    Odamex focuses on old school game-play and its advanced
+    Odamex focuses on old school game-play and advanced
     multiplayer capabilities.
 
 http://prboom-plus.sourceforge.net/[PrBoom+]::
