@@ -4,11 +4,11 @@ Download
 Game data
 ---------
 
-_Freedoom_ is available in two versions, the first of which represents
-a solely multiplayer-focused experienced for the popular
-``deathmatch'' game mode.  The second is two single-player focused
-games, each of which is compatible with different versions of the
-classic _Doom_ franchise from id Software.
+_Freedoom_ is available in two versions, the first of which is a
+single-player focused game, split in two parts, each of which is
+compatible with different versions of the classic _Doom_ franchise
+from id Software.  The second is a multiplayer-focused experience for
+the popular ``deathmatch'' game mode.
 
 [horizontal]
 https://github.com/freedoom/freedoom/releases/download/v0.9/freedoom-0.9.zip[Freedoom: Phase 1+2]::
