@@ -16,6 +16,20 @@ For more information, see the link:about.html[What is Freedoom?] page.
 Project News
 ------------
 
+2015-12-15: Freedoom 0.10 released
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Another large update to Freedoom, representing many changes to the
+game, giving a better feel for being an independent game and fleshing
+out neglected areas of the project.  We're not done yet, but close!
+
+  * Brand new status bar.
+  * New sprites for the serpent and orb monster.
+  * New HUD graphics for the single- and double-barrel shotguns,
+    missile launcher, and SKAG.
+  * New pain sounds for many monsters and the player.
+  * New maps in _Phase 1_ and _Phase 2_.
+
 2014-10-14: Freedoom 0.9 released
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -44,10 +58,3 @@ but it's more fun to play than to read, isn't it?
 Those responsible for the lack of releases since too long ago have
 been sacked. Not really, but enjoy a shiny new release, and we'll
 promise to stop with the -rc and -beta stuff from here on!
-
-2011-01-22: Freedoom 0.7 released
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-It's been a few years since 0.6, and we are now at the next major
-version number for Freedoom, 0.7. There are plenty of new materials to
-be found, please check it out!

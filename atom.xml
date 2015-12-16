@@ -7,6 +7,44 @@
   <author><name>Freedoom Project</name></author>
   <updated>2015-08-20T03:24:14Z</updated>
   <entry>
+    <title>Freedoom 0.10 released</title>
+    <id>https://freedoom.github.io/#_2015_12_15_freedoom_0_10_released</id>
+    <updated>2015-12-16T02:03:04Z</updated>
+    <content type="html">
+      &lt;p&gt;Another large update to Freedoom, representing many changes to the
+      game, giving a better feel for being an independent game and fleshing
+      out neglected areas of the project.  We&amp;#8217;re not done yet, but close!&lt;/p&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;
+      Brand new status bar.
+      &lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;
+      New sprites for the serpent and orb monster.
+      &lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;
+      New HUD graphics for the single- and double-barrel shotguns,
+      missile launcher, and SKAG.
+      &lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;
+      New pain sounds for many monsters and the player.
+      &lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;
+      New maps in &lt;em&gt;Phase 1&lt;/em&gt; and &lt;em&gt;Phase 2&lt;/em&gt;.
+      &lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+    </content>
+  </entry>
+  <entry>
     <title>Freedoom 0.9 released</title>
     <id>https://freedoom.github.io/#_2014_10_14_freedoom_0_9_released</id>
     <updated>2014-10-14T07:01:58Z</updated>
@@ -63,16 +101,6 @@
       &lt;p&gt;Those responsible for the lack of releases since too long ago have
       been sacked. Not really, but enjoy a shiny new release, and we’ll
       promise to stop with the -rc and -beta stuff from here on!&lt;/p&gt;
-    </content>
-  </entry>
-  <entry>
-    <title>Freedoom 0.7 released</title>
-    <id>https://freedoom.github.io/#_2011_01_22_freedoom_0_7_released</id>
-    <updated>2011-01-22T11:05:39Z</updated>
-    <content type="html">
-      &lt;p&gt;It’s been a few years since 0.6, and we are now at the next major
-      version number for Freedoom, 0.7. There are plenty of new materials to
-      be found, please check it out!&lt;/p&gt;
     </content>
   </entry>
 </feed>
