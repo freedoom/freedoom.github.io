@@ -7,6 +7,17 @@
   <author><name>Freedoom Project</name></author>
   <updated>2015-08-20T03:24:14Z</updated>
   <entry>
+    <title>Freedoom 0.10.1 released</title>
+    <id>https://freedoom.github.io/#_2015_12_23_freedoom_0_10_1_released</id>
+    <updated>2015-12-23T11:35:00Z</updated>
+    <content type="html">
+      &lt;p&gt;Only a week, and we have a minor point release.  This repairs an
+      incompatibility discovered with &lt;em&gt;Phase 1&lt;/em&gt; in C3M7 while running in
+      Boom 2.02.  It also includes a fully-completed set of sprites for
+      the flame bringer in &lt;em&gt;Phase 2&lt;/em&gt; and &lt;em&gt;FreeDM&lt;/em&gt;.&lt;/p&gt;
+    </content>
+  </entry>
+  <entry>
     <title>Freedoom 0.10 released</title>
     <id>https://freedoom.github.io/#_2015_12_15_freedoom_0_10_released</id>
     <updated>2015-12-16T02:03:04Z</updated>
@@ -91,16 +102,6 @@
       &lt;/ul&gt;
       &lt;p&gt;... and there are many, many more changes, too long to mention here,
       but it’s more fun to play than to read, isn’t it?&lt;/p&gt;
-    </content>
-  </entry>
-  <entry>
-    <title>Freedoom 0.8 released</title>
-    <id>https://freedoom.github.io/#_2014_01_01_freedoom_0_8_released</id>
-    <updated>2014-01-01T22:45:51Z</updated>
-    <content type="html">
-      &lt;p&gt;Those responsible for the lack of releases since too long ago have
-      been sacked. Not really, but enjoy a shiny new release, and we’ll
-      promise to stop with the -rc and -beta stuff from here on!&lt;/p&gt;
     </content>
   </entry>
 </feed>
