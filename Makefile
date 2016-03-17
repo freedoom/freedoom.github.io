@@ -8,8 +8,8 @@ PAGES=$(patsubst %.txt,%.html,$(wildcard *.txt))
 
 .SUFFIXES: .txt .html
 
-.txt.html:
-	$(ASCIIDOC) $(ADOCOPTS) $*.txt
-	$(DOS2UNIX) $*.html
+%.html: %.txt freedoom-layout.conf
+	$(ASCIIDOC) $(ADOCOPTS) $<
+	$(DOS2UNIX) $@
 
 all: $(PAGES)
