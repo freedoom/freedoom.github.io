@@ -61,3 +61,12 @@ but if you find an issue in the latest release, don't be so quick to
 report it! Check the http://freedoom.soulsphere.org/[latest and
 greatest builds] to see if the problem still persists there: much of
 Freedoom may have changed in the interim!
+
+[[website]]
+Website
+-------
+
+This website is also managed via git. If you have suggestions please either
+raise issues or pull requests at
+https://github.com/freedoom/freedoom.github.io[the freedoom.github.io GitHub
+project].
