@@ -1,0 +1,14 @@
+Other Projects Using Freedoom Assets
+====================================
+
+Since link:about.html[Freedoom is free], some other projects have used some of
+Freedoom's assets. We think this is great. Here's the ones we know of. If you
+find any others, please link:help.html#website[let us know] by filing an issue
+or pull request on the website project at GitHub.
+
+ * http://zdoom.org/wiki/Barista[Barista] (ZDoom mod)
+ * http://www.moddb.com/mods/zombie-panic-doom[Zombie Panic]
+ * http://www.indiedb.com/games/terrorized[Terrorized]
+ * http://blog.zame-dev.org/zamedev-love-opensource/comment-page-1/[Gloomy Dungeons]
+ * http://contest.gamedevfort.com/submission/657#.Ve8jwpcQlj0[Nocturne In Yellow]
+ * http://www.indiedb.com/games/doominator-wave-survival[Doominator Wave Survival]
