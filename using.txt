@@ -12,3 +12,4 @@ or pull request on the website project at GitHub.
  * http://blog.zame-dev.org/zamedev-love-opensource/comment-page-1/[Gloomy Dungeons]
  * http://contest.gamedevfort.com/submission/657#.Ve8jwpcQlj0[Nocturne In Yellow]
  * http://www.indiedb.com/games/doominator-wave-survival[Doominator Wave Survival]
+ * https://www.reddit.com/r/gamedev/comments/xdwba/so_i_decided_to_make_an_fps_with_the_doom_engine/[Omega Point]
