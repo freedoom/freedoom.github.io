@@ -1,7 +1,7 @@
 Home
 ====
 
-image::img/screenshots/th_phase1-0.10_04.jpg[alt="Freedoom Screenshot",link="screenshots.html",float="right"]
+image::img/screenshots/th_phase2-0.11_02.jpg[alt="Freedoom Screenshot",link="screenshots.html",float="right"]
 
 The Freedoom project aims to create a complete
 https://www.gnu.org/philosophy/free-sw.html[free content] game based
