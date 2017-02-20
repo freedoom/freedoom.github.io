@@ -46,6 +46,11 @@ http://odamex.net/[Odamex]::
     Odamex focuses on old school game-play and advanced
     multiplayer capabilities.
 
+http://fabiangreffrath.github.io/crispy-doom[Crispy Doom]::
+
+    Crispy Doom is a minimalist engine, adding few extra features to
+    the engine and offering an easy setup for single-player games.
+
 http://prboom-plus.sourceforge.net/[PrBoom+]::
 
     PrBoom+ is often prefered by speedrunners due to its high
