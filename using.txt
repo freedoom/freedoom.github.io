@@ -8,7 +8,7 @@ you find any others, please let us know by filing an issue or pull
 request on the https://github.com/freedoom/freedoom.github.io[website
 project at GitHub].
 
- * http://zdoom.org/wiki/Barista[Barista]
+ * https://zdoom.org/wiki/Barista[Barista]
  * http://www.indiedb.com/games/doominator-wave-survival[Doominator Wave Survival]
  * http://blog.zame-dev.org/zamedev-love-opensource/comment-page-1/[Gloomy Dungeons]
  * http://contest.gamedevfort.com/submission/657#.Ve8jwpcQlj0[Nocturne In Yellow]

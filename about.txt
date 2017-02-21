@@ -36,7 +36,7 @@ A compatible free replacement
 youtube::3wPf3CoOVoI[width=240,height=180,style="float:right;"]
 
 There is a massive 20 year
-http://doomwiki.org/wiki/Idgames_archive[back catalog]
+https://doomwiki.org/wiki/Idgames_archive[back catalog]
 containing thousands of Doom levels and other ``mods'' made by
 fans of the original game. Freedoom aims to be compatible with these
 and allows most to be played without the need to use

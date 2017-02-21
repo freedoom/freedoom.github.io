@@ -46,7 +46,7 @@ http://odamex.net/[Odamex]::
     Odamex focuses on old school game-play and advanced
     multiplayer capabilities.
 
-http://fabiangreffrath.github.io/crispy-doom[Crispy Doom]::
+https://fabiangreffrath.github.io/crispy-doom[Crispy Doom]::
 
     Crispy Doom is a minimalist engine, adding few extra features to
     the engine and offering an easy setup for single-player games.
@@ -56,7 +56,7 @@ http://prboom-plus.sourceforge.net/[PrBoom+]::
     PrBoom+ is often prefered by speedrunners due to its high
     compatibility with historical engines.
 
-These engines, and http://doomwiki.org/wiki/Source_port[many others],
+These engines, and https://doomwiki.org/wiki/Source_port[many others],
 are made possible thanks to the _Doom_ engine being released as
 https://www.gnu.org/philosophy/free-sw.html[free software] in 1997.
 
