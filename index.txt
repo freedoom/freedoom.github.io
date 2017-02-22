@@ -16,6 +16,31 @@ For more information, see the link:about.html[What is Freedoom?] page.
 Project News
 ------------
 
+2017-02-22: Freedoom 0.11.1 released
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+We've had quite a good reception for 0.11 and are thankful to everyone
+sending feedback, both praise and criticism, we use it all for
+improving Freedoom further!  This point release repairs a few
+deficiencies found in the 0.11 release and even adds a few.
+
+  * 1% armor bonus pickups are recolored from red to green.  They were
+    too easily confused for health pickups.
+  * New _TNT: Evilution_-compatible textures.
+  * New pain bringer and pain lord sprites, replacing old concept
+    art-derived ones.
+  * A few map errors are fixed, including misaligned textures,
+    leftover Boom specials, and it should no longer be possible to get
+    stuck between a rock and a tree in _Phase 1_ C1M1.
+  * Brand new _Phase 1_ C3M1, replacing an old _Doom_-inspired
+    level.
+  * Widescreen statusbar for ZDoom was removed.  This created
+    incompatibility with some mods, and mod compatibility is prefered
+    over visual enhancements.
+  * Fixed intermission text after using the secret exit in _Phase 2_
+    MAP31, where obituary texts were incorrectly displayed instead.
+  * More new music tracks, providing better vanilla compatibility.
+
 2017-02-16: Freedoom 0.11 released
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -33,14 +58,6 @@ them.
   * Some new weapon sprites: new pistol, new pickups.
   * New medkit and armor pickup sprites.
   * New project logo. 😀
-
-2015-12-23: Freedoom 0.10.1 released
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Only a week, and we have a minor point release.  This repairs an
-incompatibility discovered with _Phase 1_ in C3M7 while running in
-Boom 2.02.  It also includes a fully-completed set of sprites for
-the flame bringer in _Phase 2_ and _FreeDM_.
 
 2015-12-15: Freedoom 0.10 released
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
