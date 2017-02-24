@@ -5,16 +5,116 @@
   <link href="https://freedoom.github.io/" rel="self" />
   <id>https://freedoom.github.io/atom.xml</id>
   <author><name>Freedoom Project</name></author>
-  <updated>2015-08-20T03:24:14Z</updated>
+  <updated>2017-02-22T02:45:13Z</updated>
   <entry>
-    <title>Freedoom 0.10.1 released</title>
-    <id>https://freedoom.github.io/#_2015_12_23_freedoom_0_10_1_released</id>
-    <updated>2015-12-23T11:35:00Z</updated>
+    <title>Freedoom 0.11.1 released</title>
+    <id>https://freedoom.github.io/#_2017_02_22_freedoom_0_11_1_released</id>
+    <updated>2017-02-22T02:45:13Z</updated>
     <content type="html">
-      &lt;p&gt;Only a week, and we have a minor point release.  This repairs an
-      incompatibility discovered with &lt;em&gt;Phase 1&lt;/em&gt; in C3M7 while running in
-      Boom 2.02.  It also includes a fully-completed set of sprites for
-      the flame bringer in &lt;em&gt;Phase 2&lt;/em&gt; and &lt;em&gt;FreeDM&lt;/em&gt;.&lt;/p&gt;
+      &lt;p&gt;We&#8217;ve had quite a good reception for 0.11 and are thankful to everyone
+      sending feedback, both praise and criticism, we use it all for
+      improving Freedoom further!  This point release repairs a few
+      deficiencies found in the 0.11 release and even adds a few.&lt;/p&gt;
+      &lt;div class="ulist"&gt;&lt;ul&gt;
+	&lt;li&gt;
+	  &lt;p&gt;
+	    1% armor bonus pickups are recolored from red to green.  They were
+	    too easily confused for health pickups.
+	  &lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+	  &lt;p&gt;
+	    New &lt;em&gt;TNT: Evilution&lt;/em&gt;-compatible textures.
+	  &lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+	  &lt;p&gt;
+	    New pain bringer and pain lord sprites, replacing old concept
+	    art-derived ones.
+	  &lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+	  &lt;p&gt;
+	    A few map errors are fixed, including misaligned textures,
+	    leftover Boom specials, and it should no longer be possible to get
+	    stuck between a rock and a tree in &lt;em&gt;Phase 1&lt;/em&gt; C1M1.
+	  &lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+	  &lt;p&gt;
+	    Brand new &lt;em&gt;Phase 1&lt;/em&gt; C3M1, replacing an old &lt;em&gt;Doom&lt;/em&gt;-inspired
+	    level.
+	  &lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+	  &lt;p&gt;
+	    Widescreen statusbar for ZDoom was removed.  This created
+	    incompatibility with some mods, and mod compatibility is prefered
+	    over visual enhancements.
+	  &lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+	  &lt;p&gt;
+	    Fixed intermission text after using the secret exit in &lt;em&gt;Phase 2&lt;/em&gt;
+	    MAP31, where obituary texts were incorrectly displayed instead.
+	  &lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+	  &lt;p&gt;
+	    More new music tracks, providing better vanilla compatibility.
+	  &lt;/p&gt;
+	&lt;/li&gt;
+      &lt;/ul&gt;&lt;/div&gt;
+    </content>
+  </entry>
+  <entry>
+    <title>Freedoom 0.11 released</title>
+    <id>https://freedoom.github.io/#_2017_02_16_freedoom_0_11_released</id>
+    <updated>2017-02-16T03:53:21Z</updated>
+    <content type="html">
+      &lt;p&gt;Another year, and one of &lt;em&gt;Freedoom&lt;/em&gt;'s biggest updates has arrived!
+      One of the major developments we&#8217;ve had is the elimination of Boom as
+      the target engine for game support.  While we are aiming for an
+      eventual compatibility with Vanilla &lt;em&gt;Doom&lt;/em&gt;, &lt;em&gt;Freedoom&lt;/em&gt; should
+      presently run on any limit-removing engine, which is nearly all of
+      them.&lt;/p&gt;
+      &lt;div class="ulist"&gt;&lt;ul&gt;
+	&lt;li&gt;
+	  &lt;p&gt;
+	    Lots of new music.
+	  &lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+	  &lt;p&gt;
+	    New levels, including C1M1 kicking off &lt;em&gt;Phase 1&lt;/em&gt;.
+	  &lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+	  &lt;p&gt;
+	    Aquatex: over 200 new textures for mappers to use.
+	  &lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+	  &lt;p&gt;
+	    New intermission screens.
+	  &lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+	  &lt;p&gt;
+	    Some new weapon sprites: new pistol, new pickups.
+	  &lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+	  &lt;p&gt;
+	    New medkit and armor pickup sprites.
+	  &lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+	  &lt;p&gt;
+	    New project logo. 😀
+	  &lt;/p&gt;
+	&lt;/li&gt;
+      &lt;/ul&gt;&lt;/div&gt;
     </content>
   </entry>
   <entry>
@@ -53,55 +153,6 @@
       &lt;/p&gt;
       &lt;/li&gt;
       &lt;/ul&gt;
-    </content>
-  </entry>
-  <entry>
-    <title>Freedoom 0.9 released</title>
-    <id>https://freedoom.github.io/#_2014_10_14_freedoom_0_9_released</id>
-    <updated>2014-10-14T07:01:58Z</updated>
-    <content type="html">
-      &lt;p&gt;This version represents rather large, sweeping changes to Freedoom,
-      easily one of the best releases we’ve had in years and we are
-      extremely proud to be able to release it for all to enjoy!&lt;/p&gt;
-      &lt;ul&gt;
-        &lt;li&gt;
-          &lt;p&gt;
-            New file names no longer conflict with &lt;em&gt;Doom&lt;/em&gt;’s
-          &lt;/p&gt;
-        &lt;/li&gt;
-        &lt;li&gt;
-          &lt;p&gt;
-            FreeDM and Phase 1 have grown out of the shadows of the project
-            and have seen rapid advances.
-          &lt;/p&gt;
-        &lt;/li&gt;
-        &lt;li&gt;
-          &lt;p&gt;
-            New text font to replace the old one in all menus, in-game text,
-            and status-bar HUD.
-          &lt;/p&gt;
-        &lt;/li&gt;
-        &lt;li&gt;
-          &lt;p&gt;
-            New zombie, shotgun zombie, and assault tripod sprites by a
-            skilled pixel artist.
-          &lt;/p&gt;
-        &lt;/li&gt;
-        &lt;li&gt;
-          &lt;p&gt;
-            New sounds for the dark soldier.
-          &lt;/p&gt;
-        &lt;/li&gt;
-        &lt;li&gt;
-          &lt;p&gt;
-            More complete support for &lt;em&gt;Final Doom&lt;/em&gt; mods, adding many more
-            textures missing to support mods for both &lt;em&gt;TNT: Evilution&lt;/em&gt; and
-            &lt;em&gt;The Plutonia Experiment&lt;/em&gt;.
-          &lt;/p&gt;
-        &lt;/li&gt;
-      &lt;/ul&gt;
-      &lt;p&gt;... and there are many, many more changes, too long to mention here,
-      but it’s more fun to play than to read, isn’t it?&lt;/p&gt;
     </content>
   </entry>
 </feed>
