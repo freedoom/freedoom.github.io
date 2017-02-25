@@ -22,7 +22,7 @@ Project News
 We've had quite a good reception for 0.11 and are thankful to everyone
 sending feedback, both praise and criticism, we use it all for
 improving Freedoom further!  This point release repairs a few
-deficiencies found in the 0.11 release and even adds a few.
+deficiencies found in the 0.11 release, and adds new resources.
 
   * 1% armor bonus pickups are recolored from red to green.  They were
     too easily confused for health pickups.
