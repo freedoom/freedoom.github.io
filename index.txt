@@ -1,5 +1,6 @@
 Home
 ====
+// See COPYING for license terms of this file.
 
 image::img/screenshots/th_phase2-0.11_02.jpg[alt="Freedoom Screenshot",link="screenshots.html",float="right"]
 

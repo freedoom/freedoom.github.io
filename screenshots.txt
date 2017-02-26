@@ -1,5 +1,6 @@
 Screenshots
 ===========
+// See COPYING for license terms of this file.
 
 Phase 1 0.11
 ------------
@@ -70,3 +71,11 @@ image:img/screenshots/th_freedm-0.10_05.jpg[link="img/screenshots/freedm-0.10_05
 image:img/screenshots/th_freedm-0.10_06.jpg[link="img/screenshots/freedm-0.10_06.png"]
 image:img/screenshots/th_freedm-0.10_07.jpg[link="img/screenshots/freedm-0.10_07.png"]
 image:img/screenshots/th_freedm-0.10_08.jpg[link="img/screenshots/freedm-0.10_08.png"]
+
+Copyright licenses for these screenshots
+----------------------------------------
+
+These screenshots are all available for reuse under the same license
+as _Freedoom_ itself, which may be found at
+https://github.com/freedoom/freedoom/blob/master/COPYING.adoc[+COPYING.adoc+]
+(+COPYING.txt+ in compiled zip files) in the _Freedoom_ source tree.

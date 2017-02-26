@@ -1,5 +1,6 @@
 Download
 ========
+// See COPYING for license terms of this file.
 
 Game data
 ---------

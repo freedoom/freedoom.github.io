@@ -37,3 +37,7 @@ body {
     padding-left: 1em;
     margin-left: 200px;
 }
+
+.monospaced {
+    font-family: "monospace";
+}
