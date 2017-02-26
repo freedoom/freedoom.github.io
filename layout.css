@@ -1,57 +1,39 @@
-/*
-        style.css
-        Freedoom
-*/
-
-/* Layout */
 body {
-        margin: 0;
-        padding: 16px;
+    margin: 0;
+    padding: 16px;
 }
 
 #header, #main, #footer {
-        margin-bottom: 32px;
+    margin-bottom: 32px;
 }
-
-/* navigation aids we don't need */
-hr.divider { display: none; }
-.toplink { display: none; }
-
 
 #header {
-        height: 160px;
+    height: 160px;
 }
+
 #header h1,h2 {
-        margin: 0;
+    margin: 0;
 }
 
-#navigation { /* was #contents */
-        position: absolute;
-        top: 208px;
-        left: 8px;
-        width: 14em;
+#navigation {
+    position: absolute;
+    top: 208px;
+    left: 8px;
+    width: 14em;
 }
 
-/* was #contents */
-.nav ul { /* this stuff shouldn't be a layout */
-/*        list-style: none;
-        padding-left: 0; /* mozilla, konqueror
-        margin-left: 0; /* ie  */
-        margin-top: 0;
+.nav ul {
+    margin-top: 0;
 }
-/*#contents a {
-        display: block;
-        height: 24px;
-}*/
 
 #main {
-        margin-left: 200px;
-        clear: both;
-        padding: 1em;
+    margin-left: 200px;
+    clear: both;
+    padding: 1em;
 }
 
 #footer {
-        clear: both;
-        padding-left: 1em;
-        margin-left: 200px;
+    clear: both;
+    padding-left: 1em;
+    margin-left: 200px;
 }
