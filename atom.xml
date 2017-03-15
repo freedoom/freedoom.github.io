@@ -5,7 +5,47 @@
   <link href="https://freedoom.github.io/" rel="self" />
   <id>https://freedoom.github.io/atom.xml</id>
   <author><name>Freedoom Project</name></author>
-  <updated>2017-02-22T02:45:13Z</updated>
+  <updated>2017-03-15T02:24:01Z</updated>
+  <entry>
+    <title>Freedoom 0.11.2 released</title>
+    <id>https://freedoom.github.io/#_2017_03_15_freedoom_0_11_2_released</id>
+    <updated>2017-03-15T02:24:01Z</updated>
+    <content type="html">
+      &lt;p&gt;Solving a few more issues found in the previous release, this point
+      release is more dry than the last one, but we hope that it just
+      refines the game to make it better than before.&lt;/p&gt;
+      &lt;ul&gt;
+	&lt;li&gt;
+	  &lt;p&gt;
+	    Missing multiplayer starts have been added to several levels.
+	    No map should be lacking anymore.
+	  &lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+	  &lt;p&gt;
+	    A few mapping errors were repaired by changing sector heights.
+	    Speedrunners can better appreciate smooth flow through the levels.
+	  &lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+	  &lt;p&gt;
+	    Easy and normal difficulty levels have been tweaked.
+	  &lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+	  &lt;p&gt;
+	    Par times for Phase 1 have been added.
+	  &lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+	  &lt;p&gt;
+	    Cleaned up title screen using the Freedoom font for “Phase 1” and
+	    “Phase 2” on screen.
+	  &lt;/p&gt;
+	&lt;/li&gt;
+      &lt;/ul&gt;
+    </content>
+  </entry>
   <entry>
     <title>Freedoom 0.11.1 released</title>
     <id>https://freedoom.github.io/#_2017_02_22_freedoom_0_11_1_released</id>
