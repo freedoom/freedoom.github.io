@@ -29,9 +29,9 @@ refines the game to make it better than before.
   * A few mapping errors were repaired by changing sector heights.
     Speedrunners can better appreciate smooth flow through the levels.
   * Easy and normal difficulty levels have been tweaked.
-  * Par times for Phase 1 have been added.
-  * Cleaned up title screen using the Freedoom font for “Phase 1” and
-    “Phase 2” on screen.
+  * Par times for _Phase 1_ have been added.
+  * Cleaned up title screen using the _Freedoom_ font for _Phase 1_ and
+    _Phase 2_ on screen.
 
 2017-02-22: Freedoom 0.11.1 released
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
