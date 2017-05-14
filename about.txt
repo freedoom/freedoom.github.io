@@ -15,7 +15,7 @@ https://doomwiki.org/wiki/Category:Source_ports[compatible] game
 engine to be played.  The link:download.html[download] page lists some
 recommended ones.
 
-http://www.idsoftware.com/[id Software] released the source code to
+https://www.idsoftware.com/[id Software] released the source code to
 their classic game,
 https://en.wikipedia.org/wiki/Doom_(1993_video_game)[_Doom_], under the
 https://www.gnu.org/licenses/old-licenses/gpl-2.0.html[GNU General
