@@ -42,20 +42,16 @@ play. The following engines are highly recommended by the _Freedoom_
 project:
 
 [horizontal]
-http://odamex.net/[Odamex]::
+https://gzdoom.drdteam.org/[GZDoom]::
 
-    Odamex focuses on old school game-play and advanced
-    multiplayer capabilities.
+    GZDoom is an advanced engine, with many features and extremely
+    high compatibility with the majority of mods released for _Doom_
+    and _Freedoom_.
 
 https://fabiangreffrath.github.io/crispy-doom[Crispy Doom]::
 
     Crispy Doom is a minimalist engine, adding few extra features to
-    the engine and offering an easy setup for single-player games.
-
-http://prboom-plus.sourceforge.net/[PrBoom+]::
-
-    PrBoom+ is often prefered by speedrunners due to its high
-    compatibility with historical engines.
+    the engine while maintaining an old school feel.
 
 These engines, and https://doomwiki.org/wiki/Source_port[many others],
 are made possible thanks to the _Doom_ engine being released as
