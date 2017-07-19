@@ -5,7 +5,19 @@
   <link href="https://freedoom.github.io/" rel="self" />
   <id>https://freedoom.github.io/atom.xml</id>
   <author><name>Freedoom Project</name></author>
-  <updated>2017-03-15T02:24:01Z</updated>
+  <updated>2017-07-18T23:38:45Z</updated>
+  <entry>
+    <title>Freedoom 0.11.3 released</title>
+    <id>https://freedoom.github.io/#_2017_07_18_freedoom_0_11_3_released</id>
+    <updated>2017-07-18T23:38:45Z</updated>
+    <content type="html">
+      &lt;p&gt;This point release is only to allow building from source with
+      &lt;a href="https://github.com/Doom-Utils/deutex"&gt;DeuTex&lt;/a&gt; 5.0, and thus is
+      considered unnecessary for any purpose other than distribution
+      packaging.  There are no level, sprite, sound, music, or other asset
+      changes from 0.11.2.&lt;/p&gt;
+    </content>
+  </entry>
   <entry>
     <title>Freedoom 0.11.2 released</title>
     <id>https://freedoom.github.io/#_2017_03_15_freedoom_0_11_2_released</id>

@@ -17,6 +17,15 @@ For more information, see the link:about.html[What is Freedoom?] page.
 Project News
 ------------
 
+2017-07-18: Freedoom 0.11.3 released
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+This point release is only to allow building from source with
+https://github.com/Doom-Utils/deutex[DeuTex] 5.0, and thus is
+considered unnecessary for any purpose other than distribution
+packaging.  There are no level, sprite, sound, music, or other asset
+changes from 0.11.2.
+
 2017-03-15: Freedoom 0.11.2 released
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
