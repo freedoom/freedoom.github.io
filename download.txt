@@ -25,14 +25,14 @@ https://github.com/freedoom/freedoom/releases/download/v0.11.3/freedoom-0.11.3.z
     in _Phase 1_, as well as containing additional monsters and the
     double-barreled shotgun!  The levels in this game tend to demand
     more skillful play than the previous chapters.  It is compatible
-    with mods for _Doom II_ and _Final Doom_.
+    with mods for _Doom II_.
 
 https://github.com/freedoom/freedoom/releases/download/v0.11.3/freedm-0.11.3.zip[FreeDM]::
 
     _FreeDM_ is a fast-paced competitive deathmatch game, part of the
     Freedoom project.  Rather than the usual single-player focused
     levels, these contain no monsters and are intended for deathmatch
-    only.  It is compatible with mods for _Doom II_ and _Final Doom_.
+    only.  It is compatible with mods for _Doom II_.
 
 Engine
 ------
