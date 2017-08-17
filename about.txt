@@ -36,19 +36,19 @@ A compatible free replacement
 
 youtube::Rc4zIP1S6-I[width=320,height=180,style="float:right;"]
 
-There is a massive 20 year
-https://doomwiki.org/wiki/Idgames_archive[back catalog]
-containing thousands of Doom levels and other ``mods'' made by
-fans of the original game. Freedoom aims to be compatible with these
-and allows most to be played without the need to use
-non-free software. The video to the right shows a well-known fan-made
-Doom mod running under Freedoom.
+There is a massive decades-long
+https://doomwiki.org/wiki/Idgames_archive[back catalog] containing
+thousands of _Doom_ levels and other ``mods'' made by fans of the
+original game.  _Freedoom_ aims to be compatible with these and allows
+most to be played without the need to use non-free software.  The
+video to the right shows a _Doom_ mod running under _Freedoom_.
 
-Just as https://www.gnu.org/[the GNU project] was started to
-develop a free operating system to replace Unix, we aim to provide a
-free replacement for Doom. If you have artistic skills
-(visual, musical, or maybe you just like making levels!) then you can
-link:help.html[help us] achieve that aim by contributing to the project!
+Just as https://www.gnu.org/[the GNU project] was started to develop a
+free operating system to replace Unix, we aim to provide a free
+replacement for _Doom_.  If you have artistic skills (visual, musical,
+or maybe you just like making levels!) then you can
+link:help.html[help us] achieve that aim by contributing to the
+project!
 
 ++++
 <div style="clear:both; height: 15px;"></div>
@@ -59,14 +59,14 @@ A collection of reusable artwork
 
 image::img/flats-thumb.png[alt="Screenshot showing textures",float="right"]
 
-Freedoom contains hundreds of original textures, sound effects
-and music tracks that can be reused royalty-free by Doom level authors
+_Freedoom_ contains hundreds of original textures, sound effects and
+music tracks that can be reused royalty-free by _Doom_ level authors
 and other independent game developers.
 
-Freedoom is liberally licensed under the
+_Freedoom_ is liberally licensed under the
 https://en.wikipedia.org/wiki/BSD_licenses[BSD license] - all that is
 required is that you include a short copyright statement that credits
-the Freedoom project.
+the _Freedoom_ project.
 
 
 ++++
