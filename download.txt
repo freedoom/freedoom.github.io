@@ -54,6 +54,16 @@ These engines, and https://doomwiki.org/wiki/Source_port[many others],
 are made possible thanks to the _Doom_ engine being released as
 https://www.gnu.org/philosophy/free-sw.html[free software] in 1997.
 
+=== Android
+
+The _Freedoom_ project does not officially support any engines nor
+forks, though we would like to note for convenience that there is a
+packaged version with GZDoom available for Android devices.  It is
+available either on the
+https://play.google.com/store/apps/details?id=net.nullsum.freedoom[Google
+Play Store], or as an installable
+https://github.com/mkrupczak3/Freedoom-for-Android/releases/latest[APK].
+
 == Development snapshots
 
 Freedoom is a project with constant, active development. If you would
