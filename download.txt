@@ -1,9 +1,7 @@
-Download
-========
+= Download
 // See COPYING for license terms of this file.
 
-Game data
----------
+== Game data
 
 _Freedoom_ is available in two versions, the first of which is a
 single-player focused game, split in two parts, each of which is
@@ -34,8 +32,7 @@ https://github.com/freedoom/freedoom/releases/download/v0.11.3/freedm-0.11.3.zip
     levels, these contain no monsters and are intended for deathmatch
     only.  It is compatible with mods for _Doom II_.
 
-Engine
-------
+== Engine
 
 _Freedoom_ requires the additional download of a game engine to
 play. The following engines are highly recommended by the _Freedoom_
@@ -57,16 +54,14 @@ These engines, and https://doomwiki.org/wiki/Source_port[many others],
 are made possible thanks to the _Doom_ engine being released as
 https://www.gnu.org/philosophy/free-sw.html[free software] in 1997.
 
-Development snapshots
----------------------
+== Development snapshots
 
 Freedoom is a project with constant, active development. If you would
 like to check out the current progress of the project, you may want to
 see an automated http://freedoom.soulsphere.org/[build of the latest
 version in Git].
 
-Previous releases
------------------
+== Previous releases
 
 Freedoom is an old project with many past releases, you may find some
 of them on the https://github.com/freedoom/freedoom/releases[GitHub

@@ -1,13 +1,11 @@
-Help Freedoom!
-==============
+= Help Freedoom!
 // See COPYING for license terms of this file.
 
 Freedoom is always looking for help.  This is a short list of some of
 the resources that the project is in need of.  If you can help out,
 please check the forum or Discord links in the sidebar to get in contact!
 
-Artists
--------
+== Artists
 
 **Necromancer sprites**: Freedoom needs sprites for the “necromancer”
 monster, in particular the death animation sprites.  This is a monster
@@ -15,8 +13,7 @@ encountered in Freedoom: Phase 2 which has the ability to raise other
 monsters from the dead and set the player on fire.  If you're an
 artist or 3D modeller you can help out here.
 
-Musicians
----------
+== Musicians
 
 **In-level music**: Freedoom needs music for its levels. Presently
 some of the music tracks are serving double duty for multiple levels.
@@ -29,8 +26,7 @@ OPL MIDI instrument bank.  Check out the
 https://github.com/freedoom/freedoom/tree/master/lumps/genmidi[documentation]
 to find out more.
 
-Level authors
--------------
+== Level authors
 
 **New levels**: Freedoom is still in need of new single player levels
 in order to get a complete set of levels.  If you see a level that is
@@ -43,8 +39,7 @@ made and can donate to the project, please get in touch.
 the https://github.com/freedoom/freedoom/labels/levels[bug list] to
 see what currently needs fixing.
 
-Bug reports
------------
+== Bug reports
 
 Freedoom is an ongoing project, and issues may always be found.  The
 preferred place, and the one that will not have reports lost in
@@ -57,8 +52,7 @@ the problem still persists there: much of Freedoom may have changed in
 the interim!
 
 [[website]]
-Website
--------
+== Website
 
 This website is also managed via git.  If you have suggestions please
 either raise issues or pull requests at

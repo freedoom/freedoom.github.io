@@ -1,5 +1,4 @@
-Other Projects Using Freedoom Assets
-====================================
+= Other Projects Using Freedoom Assets
 // See COPYING for license terms of this file.
 
 Since link:about.html[_Freedoom_ is free], some other projects have

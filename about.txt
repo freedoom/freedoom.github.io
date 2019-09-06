@@ -1,9 +1,7 @@
-What is Freedoom?
-=================
+= What is Freedoom?
 // See COPYING for license terms of this file.
 
-A free FPS action game
-----------------------
+== A free FPS action game
 
 image::img/screenshots/th_freedm-0.10_06.jpg[alt="Freedoom Screenshot",link="img/screenshots/freedm-0.10_06.png",float="right"]
 
@@ -31,8 +29,7 @@ deathmatch (_FreeDM_).
 <div style="clear:both; height: 15px;"></div>
 ++++
 
-A compatible free replacement
------------------------------
+== A compatible free replacement
 
 youtube::Rc4zIP1S6-I[width=320,height=180,style="float:right;"]
 
@@ -54,8 +51,7 @@ project!
 <div style="clear:both; height: 15px;"></div>
 ++++
 
-A collection of reusable artwork
---------------------------------
+== A collection of reusable artwork
 
 image::img/flats-thumb.png[alt="Screenshot showing textures",float="right"]
 
@@ -72,4 +68,3 @@ the _Freedoom_ project.
 ++++
 <div style="clear:both;"></div>
 ++++
-

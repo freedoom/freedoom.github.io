@@ -1,5 +1,4 @@
-Home
-====
+= Home
 // See COPYING for license terms of this file.
 
 image::img/screenshots/th_phase2-0.11_02.jpg[alt="Freedoom Screenshot",link="screenshots.html",float="right"]
@@ -14,11 +13,9 @@ _Doom_ fans and artists over the decades.
 
 For more information, see the link:about.html[What is Freedoom?] page.
 
-Project News
-------------
+== Project News
 
-2017-07-18: Freedoom 0.11.3 released
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=== 2017-07-18: Freedoom 0.11.3 released
 
 This point release is only to allow building from source with
 https://github.com/Doom-Utils/deutex[DeuTex] 5.0, and thus is
@@ -26,8 +23,7 @@ considered unnecessary for any purpose other than distribution
 packaging.  There are no level, sprite, sound, music, or other asset
 changes from 0.11.2.
 
-2017-03-15: Freedoom 0.11.2 released
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=== 2017-03-15: Freedoom 0.11.2 released
 
 Solving a few more issues found in the previous release, this point
 release is more dry than the last one, but we hope that it just
@@ -42,8 +38,7 @@ refines the game to make it better than before.
   * Cleaned up title screen using the _Freedoom_ font for _Phase 1_ and
     _Phase 2_ on screen.
 
-2017-02-22: Freedoom 0.11.1 released
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=== 2017-02-22: Freedoom 0.11.1 released
 
 We've had quite a good reception for 0.11 and are thankful to everyone
 sending feedback, both praise and criticism, we use it all for
@@ -67,8 +62,7 @@ deficiencies found in the 0.11 release, and adds new resources.
     MAP31, where obituary texts were incorrectly displayed instead.
   * More new music tracks, providing better vanilla compatibility.
 
-2017-02-16: Freedoom 0.11 released
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=== 2017-02-16: Freedoom 0.11 released
 
 Another year, and one of _Freedoom_'s biggest updates has arrived!
 One of the major developments we've had is the elimination of Boom as
@@ -85,8 +79,7 @@ them.
   * New medkit and armor pickup sprites.
   * New project logo. 😀
 
-2015-12-15: Freedoom 0.10 released
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=== 2015-12-15: Freedoom 0.10 released
 
 Another large update to Freedoom, representing many changes to the
 game, giving a better feel for being an independent game and fleshing

@@ -1,9 +1,7 @@
-Screenshots
-===========
+= Screenshots
 // See COPYING for license terms of this file.
 
-Phase 1 0.11
-------------
+== Phase 1 0.11
 
 The following screenshots are from _Freedoom: Phase 1_ 0.11:
 
@@ -16,8 +14,7 @@ image:img/screenshots/th_phase1-0.11_06.jpg[link="img/screenshots/phase1-0.11_06
 image:img/screenshots/th_phase1-0.11_07.jpg[link="img/screenshots/phase1-0.11_07.png"]
 image:img/screenshots/th_phase1-0.11_08.jpg[link="img/screenshots/phase1-0.11_08.png"]
 
-Phase 2 0.11
-------------
+== Phase 2 0.11
 
 The following screenshots are from _Freedoom: Phase 2_ 0.11:
 
@@ -30,8 +27,7 @@ image:img/screenshots/th_phase2-0.11_06.jpg[link="img/screenshots/phase2-0.11_06
 image:img/screenshots/th_phase2-0.11_07.jpg[link="img/screenshots/phase2-0.11_07.png"]
 image:img/screenshots/th_phase2-0.11_08.jpg[link="img/screenshots/phase2-0.11_08.png"]
 
-Phase 1 0.10
-------------
+== Phase 1 0.10
 
 The following screenshots are from _Freedoom: Phase 1_ 0.10:
 
@@ -44,8 +40,7 @@ image:img/screenshots/th_phase1-0.10_06.jpg[link="img/screenshots/phase1-0.10_06
 image:img/screenshots/th_phase1-0.10_07.jpg[link="img/screenshots/phase1-0.10_07.png"]
 image:img/screenshots/th_phase1-0.10_08.jpg[link="img/screenshots/phase1-0.10_08.png"]
 
-Phase 2 0.10
-------------
+== Phase 2 0.10
 
 The following screenshots are from _Freedoom: Phase 2_ 0.10:
 
@@ -58,8 +53,7 @@ image:img/screenshots/th_phase2-0.10_06.jpg[link="img/screenshots/phase2-0.10_06
 image:img/screenshots/th_phase2-0.10_07.jpg[link="img/screenshots/phase2-0.10_07.png"]
 image:img/screenshots/th_phase2-0.10_08.jpg[link="img/screenshots/phase2-0.10_08.png"]
 
-FreeDM 0.10
------------
+== FreeDM 0.10
 
 The following screenshots are from _FreeDM_ 0.10:
 
@@ -72,8 +66,7 @@ image:img/screenshots/th_freedm-0.10_06.jpg[link="img/screenshots/freedm-0.10_06
 image:img/screenshots/th_freedm-0.10_07.jpg[link="img/screenshots/freedm-0.10_07.png"]
 image:img/screenshots/th_freedm-0.10_08.jpg[link="img/screenshots/freedm-0.10_08.png"]
 
-Copyright licenses for these screenshots
-----------------------------------------
+== Copyright licenses for these screenshots
 
 These screenshots are all available for reuse under the same license
 as _Freedoom_ itself, which may be found at
