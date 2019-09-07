@@ -1,43 +1,46 @@
 body {
-    margin: 0;
-    padding: 16px;
+  margin: 0;
+  padding: 16px;
 }
 
-#header, #main, #footer {
-    margin-bottom: 32px;
+#header,
+#main,
+#footer {
+  margin-bottom: 32px;
 }
 
 #header {
-    height: 160px;
+  height: 160px;
 }
 
-#header h1,h2 {
-    margin: 0;
+#header h1,
+h2 {
+  margin: 0;
 }
 
 #navigation {
-    position: absolute;
-    top: 208px;
-    left: 8px;
-    width: 14em;
+  position: absolute;
+  top: 208px;
+  left: 8px;
+  width: 14em;
 }
 
 .nav ul {
-    margin-top: 0;
+  margin-top: 0;
 }
 
 #main {
-    margin-left: 200px;
-    clear: both;
-    padding: 1em;
+  margin-left: 200px;
+  clear: both;
+  padding: 1em;
 }
 
 #footer {
-    clear: both;
-    padding-left: 1em;
-    margin-left: 200px;
+  clear: both;
+  padding-left: 1em;
+  margin-left: 200px;
 }
 
 .monospaced {
-    font-family: "monospace";
+  font-family: "monospace";
 }
