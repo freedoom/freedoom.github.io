@@ -14,7 +14,7 @@ p { padding-top:0.5em; padding-bottom: 0.5em; }
 /* some basics: a colour and font settings */
 body {
         background-color: #C6DCD1;
-        font-family: arial, helvetica, sans-serif;
+        font-family: sans-serif;
         font-size: small;
 }
 a { color: #226; text-decoration: none; background: #efe; }
