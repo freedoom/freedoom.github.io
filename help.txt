@@ -5,14 +5,6 @@ Freedoom is always looking for help.  This is a short list of some of
 the resources that the project is in need of.  If you can help out,
 please check the forum or Discord links in the sidebar to get in contact!
 
-== Artists
-
-**Necromancer sprites**: Freedoom needs sprites for the “necromancer”
-monster, in particular the death animation sprites.  This is a monster
-encountered in Freedoom: Phase 2 which has the ability to raise other
-monsters from the dead and set the player on fire.  If you're an
-artist or 3D modeller you can help out here.
-
 == Musicians
 
 **In-level music**: Freedoom needs music for its levels. Presently
