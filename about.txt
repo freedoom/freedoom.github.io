@@ -1,5 +1,5 @@
 = What is Freedoom?
-// See COPYING for license terms of this file.
+// See COPYING.adoc for license terms of this file.
 
 == A free FPS action game
 

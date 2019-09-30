@@ -1,5 +1,5 @@
 = Help Freedoom!
-// See COPYING for license terms of this file.
+// See COPYING.adoc for license terms of this file.
 
 Freedoom is always looking for help.  This is a short list of some of
 the resources that the project is in need of.  If you can help out,

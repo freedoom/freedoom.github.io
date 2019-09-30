@@ -1,5 +1,5 @@
 = Download
-// See COPYING for license terms of this file.
+// See COPYING.adoc for license terms of this file.
 
 == Game data
 

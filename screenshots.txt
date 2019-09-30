@@ -1,5 +1,5 @@
 = Screenshots
-// See COPYING for license terms of this file.
+// See COPYING.adoc for license terms of this file.
 
 == Phase 1 0.11
 
