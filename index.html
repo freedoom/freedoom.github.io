@@ -53,7 +53,7 @@
 <div class="imageblock" style="float:right;">
 <div class="content">
 <a class="image" href="screenshots.html">
-<img src="img/screenshots/th_phase2-0.11_02.jpg" alt="Freedoom Screenshot">
+<img src="img/screenshots/th_phase2-0.12_04.webp" alt="Freedoom Screenshot">
 </a>
 </div>
 </div>
@@ -69,6 +69,190 @@ modifications (&#8220;mods&#8221;) made for the original <em>Doom</em> games, ma
 <div class="sect1">
 <h2 id="_project_news">Project News</h2>
 <div class="sectionbody">
+<div class="sect2">
+<h3 id="_2019_10_10_freedoom_0_12_0_released">2019-10-10: Freedoom 0.12.0 released</h3>
+<div class="sect3">
+<h4 id="_general">General</h4>
+<div class="ulist"><ul>
+<li>
+<p>
+We now have a manual rendered to beautiful PDF format.  Thanks to
+    Simon Howard, the project’s founder.
+</p>
+</li>
+<li>
+<p>
+A strong focus on vanilla compatibility has been sought for this
+    release.  Most, if not all, levels should work now.
+</p>
+</li>
+<li>
+<p>
+<em>Final Doom</em> compatibility de-emphasized.  Where it creates
+    conflicts with <em>Doom II</em> mods or texture definitions, we prefer
+    the <em>Doom II</em> side of things.  <em>Final Doom</em>-specific maps and mods
+    may never look completely right in <em>Freedoom</em>, as a result.
+</p>
+</li>
+</ul></div>
+</div>
+<div class="sect3">
+<h4 id="_levels">Levels</h4>
+<div class="ulist"><ul>
+<li>
+<p>
+<em>FreeDM</em> has seen a major overhaul, with most maps being modified,
+    with new additions and removals of the weaker levels.  It now
+    benefits from the use of Aquatex and Egyptian textures in some of
+    its levels, giving a more vibrant feel than before.
+</p>
+</li>
+<li>
+<p>
+<em>Phase 1</em> gets a lot of mapping love in this round, fleshing out
+    the levels and tweaking difficulty levels so easy, normal, and
+    hard are all accounted for.  There is a new C3M5 by Mortrixs.
+</p>
+</li>
+<li>
+<p>
+<em>Phase 2</em> MAP01 saw an overhaul, simplifying its design in
+    significant ways to improve the flow around the level.
+</p>
+</li>
+<li>
+<p>
+Two maps in <em>Phase 2</em> were replaced due to being recreations of
+    <em>Doom II</em> maps.  Jayexetee and GooseJelly get credits for the new
+    ones, in MAP06 and MAP26.
+</p>
+</li>
+<li>
+<p>
+Maps in <em>Phase 2</em> in general have had some slight re-arrangement
+    based on difficulty levels and themes.  A new MAP06 by Jayexetee
+    is included, the old one taking the MAP18 slot.
+</p>
+</li>
+<li>
+<p>
+All levels are now guaranteed to have co-op and deathmatch starts.
+</p>
+</li>
+</ul></div>
+</div>
+<div class="sect3">
+<h4 id="_graphics">Graphics</h4>
+<div class="ulist"><ul>
+<li>
+<p>
+New power-up (stealth, overdrive, and ultra-overdrive) sprites.
+</p>
+</li>
+<li>
+<p>
+New necromancer (arch-vile) sprites by Urric.
+</p>
+</li>
+<li>
+<p>
+Some weapon and ammo sprites have been tweaked and improved.
+</p>
+</li>
+<li>
+<p>
+Completed and enhanced set of <em>Evilution</em> and <em>Plutonia</em> textures.
+</p>
+</li>
+<li>
+<p>
+New skull-switches by MissLav.
+</p>
+</li>
+<li>
+<p>
+New SKY4 based on an astronomy photograph.
+</p>
+</li>
+</ul></div>
+</div>
+<div class="sect3">
+<h4 id="_music">Music</h4>
+<div class="ulist"><ul>
+<li>
+<p>
+New tracks in C1M2, C2M3, C2M8, MAP03, MAP12, MAP22, MAP25, MAP26,
+    MAP27, DM03, DM06, DM09, DM17, DM24, DM31, and DM32.
+</p>
+</li>
+<li>
+<p>
+All files in-tree have been renamed from *.mus to *.mid.  The file
+    format must always be MIDI.  This makes it easy on music composers
+    to actually work with the files.
+</p>
+</li>
+</ul></div>
+</div>
+<div class="sect3">
+<h4 id="_unix_script_and_metadata">Unix script and metadata</h4>
+<div class="ulist"><ul>
+<li>
+<p>
+Metainfo (formerly appdata) and desktop files have been brought up
+    to the latest standard specifications and recommendations, using
+    reverse-DNS for the project identifier, and a self-evaluated
+    content rating.
+</p>
+</li>
+<li>
+<p>
+The launch shell-script changed the <span class="monospaced">PORT</span> environment variable to
+    <span class="monospaced">DOOMPORT</span> to avoid conflicts with the genericly-named <span class="monospaced">PORT</span>.  It
+    also builds a sensible default <span class="monospaced">DOOMWADPATH</span> environment variable
+    to assist ports that do not have a hard-coded fallback.
+</p>
+</li>
+<li>
+<p>
+The script no longer tries to look for <span class="monospaced">boom</span>, <span class="monospaced">zdoom</span>, nor
+    <span class="monospaced">prboom</span> by default, as these are ports no longer maintained.
+</p>
+</li>
+</ul></div>
+</div>
+<div class="sect3">
+<h4 id="_build_system">Build system</h4>
+<div class="ulist"><ul>
+<li>
+<p>
+Freedoom’s build system now has a hard dependency on Python 3, in
+    anticipation of Python 2’s end-of-life.
+</p>
+</li>
+<li>
+<p>
+We have moved from ImageMagick to Pillow, a Python library for
+    graphics manipulation.  It provides faster build times as well as
+    API stability.
+</p>
+</li>
+<li>
+<p>
+GIF files have been replaced with PNG files.  True PNG file format
+    transparency is used instead of a cyan background.
+</p>
+</li>
+<li>
+<p>
+<span class="monospaced">ASCIIDOC</span> and <span class="monospaced">ASCIIDOC_MAN</span> variables have been added to the
+    Makefile to control the AsciiDoc implementation used to generate
+    HTML and man page files.
+</p>
+</li>
+</ul></div>
+</div>
+</div>
 <div class="sect2">
 <h3 id="_2017_07_18_freedoom_0_11_3_released">2017-07-18: Freedoom 0.11.3 released</h3>
 <div class="paragraph"><p>This point release is only to allow building from source with
@@ -212,40 +396,6 @@ New medkit and armor pickup sprites.
 <li>
 <p>
 New project logo. 😀
-</p>
-</li>
-</ul></div>
-</div>
-<div class="sect2">
-<h3 id="_2015_12_15_freedoom_0_10_released">2015-12-15: Freedoom 0.10 released</h3>
-<div class="paragraph"><p>Another large update to Freedoom, representing many changes to the
-game, giving a better feel for being an independent game and fleshing
-out neglected areas of the project.  We&#8217;re not done yet, but close!</p></div>
-<div class="ulist"><ul>
-<li>
-<p>
-Brand new status bar.
-</p>
-</li>
-<li>
-<p>
-New sprites for the serpent and orb monster.
-</p>
-</li>
-<li>
-<p>
-New HUD graphics for the single- and double-barrel shotguns,
-    missile launcher, and SKAG.
-</p>
-</li>
-<li>
-<p>
-New pain sounds for many monsters and the player.
-</p>
-</li>
-<li>
-<p>
-New maps in <em>Phase 1</em> and <em>Phase 2</em>.
 </p>
 </li>
 </ul></div>
