@@ -5,7 +5,188 @@
   <link href="https://freedoom.github.io/" rel="self" />
   <id>https://freedoom.github.io/atom.xml</id>
   <author><name>Freedoom Project</name></author>
-  <updated>2017-07-18T23:38:45Z</updated>
+  <updated>2019-10-10T01:22:22Z</updated>
+  <entry>
+	<title>Freedoom 0.12.0 released</title>
+	<id>https://freedoom.github.io/#_2019_10_10_freedoom_0_12_0_released</id>
+	<updated>2019-10-10T01:22:22Z</updated>
+	<content type="html">
+	  &lt;h2&gt;General&lt;/h2&gt;
+	  &lt;ul&gt;
+		&lt;li&gt;
+		  &lt;p&gt;
+			We now have a manual rendered to beautiful PDF format.  Thanks to
+			Simon Howard, the project’s founder.
+		  &lt;/p&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+		  &lt;p&gt;
+			A strong focus on vanilla compatibility has been sought for this
+			release.  Most, if not all, levels should work now.
+		  &lt;/p&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+		  &lt;p&gt;
+			&lt;em&gt;Final Doom&lt;/em&gt; compatibility de-emphasized.  Where it creates
+			conflicts with &lt;em&gt;Doom II&lt;/em&gt; mods or texture definitions, we prefer
+			the &lt;em&gt;Doom II&lt;/em&gt; side of things.  &lt;em&gt;Final Doom&lt;/em&gt;-specific maps and mods
+			may never look completely right in &lt;em&gt;Freedoom&lt;/em&gt;, as a result.
+		  &lt;/p&gt;
+		&lt;/li&gt;
+	  &lt;/ul&gt;
+	  &lt;h2&gt;Levels&lt;/h2&gt;
+	  &lt;ul&gt;
+		&lt;li&gt;
+		  &lt;p&gt;
+			&lt;em&gt;FreeDM&lt;/em&gt; has seen a major overhaul, with most maps being modified,
+			with new additions and removals of the weaker levels.  It now
+			benefits from the use of Aquatex and Egyptian textures in some of
+			its levels, giving a more vibrant feel than before.
+		  &lt;/p&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+		  &lt;p&gt;
+			&lt;em&gt;Phase 1&lt;/em&gt; gets a lot of mapping love in this round, fleshing out
+			the levels and tweaking difficulty levels so easy, normal, and
+			hard are all accounted for.  There is a new C3M5 by Mortrixs.
+		  &lt;/p&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+		  &lt;p&gt;
+			&lt;em&gt;Phase 2&lt;/em&gt; MAP01 saw an overhaul, simplifying its design in
+			significant ways to improve the flow around the level.
+		  &lt;/p&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+		  &lt;p&gt;
+			Two maps in &lt;em&gt;Phase 2&lt;/em&gt; were replaced due to being recreations of
+			&lt;em&gt;Doom II&lt;/em&gt; maps.  Jayexetee and GooseJelly get credits for the new
+			ones, in MAP06 and MAP26.
+		  &lt;/p&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+		  &lt;p&gt;
+			Maps in &lt;em&gt;Phase 2&lt;/em&gt; in general have had some slight re-arrangement
+			based on difficulty levels and themes.  A new MAP06 by Jayexetee
+			is included, the old one taking the MAP18 slot.
+		  &lt;/p&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+		  &lt;p&gt;
+			All levels are now guaranteed to have co-op and deathmatch starts.
+		  &lt;/p&gt;
+		&lt;/li&gt;
+	  &lt;/ul&gt;
+	  &lt;h2&gt;Graphics&lt;/h2&gt;
+	  &lt;ul&gt;
+		&lt;li&gt;
+		  &lt;p&gt;
+			New power-up (stealth, overdrive, and ultra-overdrive) sprites.
+		  &lt;/p&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+		  &lt;p&gt;
+			New necromancer (arch-vile) sprites by Urric.
+		  &lt;/p&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+		  &lt;p&gt;
+			Some weapon and ammo sprites have been tweaked and improved.
+		  &lt;/p&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+		  &lt;p&gt;
+			Completed and enhanced set of &lt;em&gt;Evilution&lt;/em&gt; and &lt;em&gt;Plutonia&lt;/em&gt; textures.
+		  &lt;/p&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+		  &lt;p&gt;
+			New skull-switches by MissLav.
+		  &lt;/p&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+		  &lt;p&gt;
+			New SKY4 based on an astronomy photograph.
+		  &lt;/p&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+		  &lt;p&gt;
+			Tweaked player sprites and HUD face by Ferk.
+		  &lt;/p&gt;
+		&lt;/li&gt;
+	  &lt;/ul&gt;
+	  &lt;h2&gt;Music&lt;/h2&gt;
+	  &lt;ul&gt;
+		&lt;li&gt;
+		  &lt;p&gt;
+			New tracks in C1M2, C2M3, C2M8, MAP03, MAP12, MAP22, MAP25, MAP26,
+			MAP27, DM03, DM06, DM09, DM17, DM24, DM31, and DM32.
+		  &lt;/p&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+		  &lt;p&gt;
+			All files in-tree have been renamed from *.mus to *.mid.  The file
+			format must always be MIDI.  This makes it easy on music composers
+			to actually work with the files.
+		  &lt;/p&gt;
+		&lt;/li&gt;
+	  &lt;/ul&gt;
+	  &lt;h2&gt;Unix script and metadata&lt;/h2&gt;
+	  &lt;ul&gt;
+		&lt;li&gt;
+		  &lt;p&gt;
+			Metainfo (formerly appdata) and desktop files have been brought up
+			to the latest standard specifications and recommendations, using
+			reverse-DNS for the project identifier, and a self-evaluated
+			content rating.
+		  &lt;/p&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+		  &lt;p&gt;
+			The launch shell-script changed the &lt;code&gt;PORT&lt;/code&gt; environment variable to
+			&lt;code&gt;DOOMPORT&lt;/code&gt; to avoid conflicts with the genericly-named &lt;code&gt;PORT&lt;/code&gt;.  It
+			also builds a sensible default &lt;code&gt;DOOMWADPATH&lt;/code&gt; environment variable
+			to assist ports that do not have a hard-coded fallback.
+		  &lt;/p&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+		  &lt;p&gt;
+			The script no longer tries to look for &lt;code&gt;boom&lt;/code&gt;, &lt;code&gt;zdoom&lt;/code&gt;, nor
+			&lt;code&gt;prboom&lt;/code&gt; by default, as these are ports no longer maintained.
+		  &lt;/p&gt;
+		&lt;/li&gt;
+	  &lt;/ul&gt;
+	  &lt;h2&gt;Build system&lt;/h2&gt;
+	  &lt;ul&gt;
+		&lt;li&gt;
+		  &lt;p&gt;
+			Freedoom’s build system now has a hard dependency on Python 3, in
+			anticipation of Python 2’s end-of-life.
+		  &lt;/p&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+		  &lt;p&gt;
+			We have moved from ImageMagick to Pillow, a Python library for
+			graphics manipulation.  It provides faster build times as well as
+			API stability.
+		  &lt;/p&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+		  &lt;p&gt;
+			GIF files have been replaced with PNG files.  True PNG file format
+			transparency is used instead of a cyan background.
+		  &lt;/p&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+		  &lt;p&gt;
+			&lt;code&gt;ASCIIDOC&lt;/code&gt; and &lt;code&gt;ASCIIDOC_MAN&lt;/code&gt; variables have been added to the
+			Makefile to control the AsciiDoc implementation used to generate
+			HTML and man page files.
+		  &lt;/p&gt;
+		&lt;/li&gt;
+	  &lt;/ul&gt;
+	</content>
+  </entry>
   <entry>
     <title>Freedoom 0.11.3 released</title>
     <id>https://freedoom.github.io/#_2017_07_18_freedoom_0_11_3_released</id>
