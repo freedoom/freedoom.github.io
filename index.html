@@ -70,9 +70,66 @@ modifications (&#8220;mods&#8221;) made for the original <em>Doom</em> games, ma
 <h2 id="_project_news">Project News</h2>
 <div class="sectionbody">
 <div class="sect2">
-<h3 id="_2019_10_10_freedoom_0_12_0_released">2019-10-10: Freedoom 0.12.0 released</h3>
+<h3 id="_2019_10_22_freedoom_0_12_1_released">2019-10-22: Freedoom 0.12.1 released</h3>
 <div class="sect3">
 <h4 id="_general">General</h4>
+<div class="ulist"><ul>
+<li>
+<p>
+The HTML documentation (eg, <span class="monospaced">NEWS</span> and <span class="monospaced">README</span> files) are
+    generated with a style based on <em>Freedoom</em>’s own website, rather
+    than the default AsciiDoc styling.
+</p>
+</li>
+<li>
+<p>
+<em>Phase 2</em>’s internal DEMO1 has been replaced, thanks to some odd
+    vanilla quirks that could cause it to desync in some (but not all)
+    conditions.
+</p>
+</li>
+</ul></div>
+</div>
+<div class="sect3">
+<h4 id="_levels">Levels</h4>
+<div class="ulist"><ul>
+<li>
+<p>
+The sailor monster type is formally banished from <em>Freedoom</em>’s own
+    levels, and remaining uses of it were removed.
+</p>
+</li>
+</ul></div>
+</div>
+<div class="sect3">
+<h4 id="_manual">Manual</h4>
+<div class="ulist"><ul>
+<li>
+<p>
+Incongruities between the actual game and manual have been fixed.
+</p>
+</li>
+</ul></div>
+</div>
+<div class="sect3">
+<h4 id="_build_system">Build system</h4>
+<div class="ulist"><ul>
+<li>
+<p>
+The <span class="monospaced">make install</span> targets have been consolidated to behave more
+    similarly to how the pre-built zip distributions are: a split
+    between <em>FreeDM</em> and <em>Phase 1+2</em>, rather than installing each of
+    the tree IWADs independently (and thus getting their own
+    <span class="monospaced">/usr/share/doc</span> directories, for instance).
+</p>
+</li>
+</ul></div>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_2019_10_10_freedoom_0_12_0_released">2019-10-10: Freedoom 0.12.0 released</h3>
+<div class="sect3">
+<h4 id="_general_2">General</h4>
 <div class="ulist"><ul>
 <li>
 <p>
@@ -97,7 +154,7 @@ A strong focus on vanilla compatibility has been sought for this
 </ul></div>
 </div>
 <div class="sect3">
-<h4 id="_levels">Levels</h4>
+<h4 id="_levels_2">Levels</h4>
 <div class="ulist"><ul>
 <li>
 <p>
@@ -227,7 +284,7 @@ The script no longer tries to look for <span class="monospaced">boom</span>, <sp
 </ul></div>
 </div>
 <div class="sect3">
-<h4 id="_build_system">Build system</h4>
+<h4 id="_build_system_2">Build system</h4>
 <div class="ulist"><ul>
 <li>
 <p>

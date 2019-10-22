@@ -1,23 +1,23 @@
 {
   "freedm.wad": {
     "description": "Deathmatch IWAD",
-    "md5": "3250aad8b1d40fb7b25b7df6573eb29f",
+    "md5": "d40c932a9183ded919afa89f4a729668",
     "name": "FreeDM",
-    "url": "https://github.com/freedoom/freedoom/releases/download/v0.12.0/freedm-0.12.0.zip",
-    "version": "0.12.0"
+    "url": "https://github.com/freedoom/freedoom/releases/download/v0.12.1/freedm-0.12.1.zip",
+    "version": "0.12.1"
   },
   "freedoom1.wad": {
     "description": "Ultimate Doom compatible IWAD",
-    "md5": "0c5f8ff45cc3538d368a0f8d8fc11ce3",
+    "md5": "b36aa44a23045e503c19af4b4c438a78",
     "name": "Freedoom: Phase 1",
-    "url": "https://github.com/freedoom/freedoom/releases/download/v0.12.0/freedoom-0.12.0.zip",
-    "version": "0.12.0"
+    "url": "https://github.com/freedoom/freedoom/releases/download/v0.12.1/freedoom-0.12.1.zip",
+    "version": "0.12.1"
   },
   "freedoom2.wad": {
     "description": "Doom II compatible IWAD",
-    "md5": "83560b2963424fa4a2eb971194428bf8",
+    "md5": "ca9a4159a7833544a89144c7f5053412",
     "name": "Freedoom: Phase 2",
-    "url": "https://github.com/freedoom/freedoom/releases/download/v0.12.0/freedoom-0.12.0.zip",
-    "version": "0.12.0"
+    "url": "https://github.com/freedoom/freedoom/releases/download/v0.12.1/freedoom-0.12.1.zip",
+    "version": "0.12.1"
   }
 }
