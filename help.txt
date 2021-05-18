@@ -43,7 +43,6 @@ http://freedoom.soulsphere.org/[latest and greatest builds] to see if
 the problem still persists there: much of Freedoom may have changed in
 the interim!
 
-[[website]]
 == Website
 
 This website is also managed via git.  If you have suggestions please
