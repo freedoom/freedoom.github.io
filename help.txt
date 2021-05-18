@@ -49,3 +49,12 @@ This website is also managed via git.  If you have suggestions please
 either raise issues or pull requests at
 https://github.com/freedoom/freedoom.github.io[the freedoom.github.io
 GitHub project].
+
+== Financial contributions
+
+Freedoom does not accept financial donations nor bug bounties.  While
+such desires to support us this way are appreciated, we do not have a
+present need for financial assistance with development or hosting.
+
+As an alternative, evangelize!  Spread the word of Freedoom and share
+your love for the game and encourage others to try it.
