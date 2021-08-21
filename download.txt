@@ -13,16 +13,16 @@ the popular ``deathmatch'' game mode.
 https://github.com/freedoom/freedoom/releases/download/v0.12.1/freedoom-0.12.1.zip[Freedoom: Phase 1+2]::
 
     _Phase 1_ is the first part of the single-player game, containing
-    four chapters which are nine levels each, smoothly paced for
+    four episodes which are nine levels each, smoothly paced for
     beginner players.  It is compatible with mods for the original
     _Doom_ and _The Ultimate Doom_.
     +
     +
     _Phase 2_ is the second major part of the single-player game, a
-    massive 32-level chapter expanding upon the same concepts present
+    massive 32-level episode expanding upon the same concepts present
     in _Phase 1_, as well as containing additional monsters and the
     double-barreled shotgun!  The levels in this game tend to demand
-    more skillful play than the previous chapters.  It is compatible
+    more skillful play than the previous episodes.  It is compatible
     with mods for _Doom II_.
 
 https://github.com/freedoom/freedoom/releases/download/v0.12.1/freedm-0.12.1.zip[FreeDM]::
