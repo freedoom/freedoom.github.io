@@ -5,40 +5,40 @@
 
 The following screenshots are from _Freedoom: Phase 1_ 0.12:
 
-image:img/screenshots/th_phase1-0.12_01.webp[link="img/screenshots/phase1-0.12_01.webp"]
-image:img/screenshots/th_phase1-0.12_02.webp[link="img/screenshots/phase1-0.12_02.webp"]
-image:img/screenshots/th_phase1-0.12_03.webp[link="img/screenshots/phase1-0.12_03.webp"]
-image:img/screenshots/th_phase1-0.12_04.webp[link="img/screenshots/phase1-0.12_04.webp"]
-image:img/screenshots/th_phase1-0.12_05.webp[link="img/screenshots/phase1-0.12_05.webp"]
-image:img/screenshots/th_phase1-0.12_06.webp[link="img/screenshots/phase1-0.12_06.webp"]
-image:img/screenshots/th_phase1-0.12_07.webp[link="img/screenshots/phase1-0.12_07.webp"]
-image:img/screenshots/th_phase1-0.12_08.webp[link="img/screenshots/phase1-0.12_08.webp"]
+image:img/screenshots/th_phase1-0.12_01.png[link="img/screenshots/phase1-0.12_01.png"]
+image:img/screenshots/th_phase1-0.12_02.png[link="img/screenshots/phase1-0.12_02.png"]
+image:img/screenshots/th_phase1-0.12_03.png[link="img/screenshots/phase1-0.12_03.png"]
+image:img/screenshots/th_phase1-0.12_04.png[link="img/screenshots/phase1-0.12_04.png"]
+image:img/screenshots/th_phase1-0.12_05.png[link="img/screenshots/phase1-0.12_05.png"]
+image:img/screenshots/th_phase1-0.12_06.png[link="img/screenshots/phase1-0.12_06.png"]
+image:img/screenshots/th_phase1-0.12_07.png[link="img/screenshots/phase1-0.12_07.png"]
+image:img/screenshots/th_phase1-0.12_08.png[link="img/screenshots/phase1-0.12_08.png"]
 
 == Phase 2 0.12
 
 The following screenshots are from _Freedoom: Phase 2_ 0.12:
 
-image:img/screenshots/th_phase2-0.12_01.webp[link="img/screenshots/phase2-0.12_01.webp"]
-image:img/screenshots/th_phase2-0.12_02.webp[link="img/screenshots/phase2-0.12_02.webp"]
-image:img/screenshots/th_phase2-0.12_03.webp[link="img/screenshots/phase2-0.12_03.webp"]
-image:img/screenshots/th_phase2-0.12_04.webp[link="img/screenshots/phase2-0.12_04.webp"]
-image:img/screenshots/th_phase2-0.12_05.webp[link="img/screenshots/phase2-0.12_05.webp"]
-image:img/screenshots/th_phase2-0.12_06.webp[link="img/screenshots/phase2-0.12_06.webp"]
-image:img/screenshots/th_phase2-0.12_07.webp[link="img/screenshots/phase2-0.12_07.webp"]
-image:img/screenshots/th_phase2-0.12_08.webp[link="img/screenshots/phase2-0.12_08.webp"]
+image:img/screenshots/th_phase2-0.12_01.png[link="img/screenshots/phase2-0.12_01.png"]
+image:img/screenshots/th_phase2-0.12_02.png[link="img/screenshots/phase2-0.12_02.png"]
+image:img/screenshots/th_phase2-0.12_03.png[link="img/screenshots/phase2-0.12_03.png"]
+image:img/screenshots/th_phase2-0.12_04.png[link="img/screenshots/phase2-0.12_04.png"]
+image:img/screenshots/th_phase2-0.12_05.png[link="img/screenshots/phase2-0.12_05.png"]
+image:img/screenshots/th_phase2-0.12_06.png[link="img/screenshots/phase2-0.12_06.png"]
+image:img/screenshots/th_phase2-0.12_07.png[link="img/screenshots/phase2-0.12_07.png"]
+image:img/screenshots/th_phase2-0.12_08.png[link="img/screenshots/phase2-0.12_08.png"]
 
 == FreeDM 0.12
 
 The following screenshots are from _FreeDM_ 0.12:
 
-image:img/screenshots/th_freedm-0.12_01.webp[link="img/screenshots/freedm-0.12_01.webp"]
-image:img/screenshots/th_freedm-0.12_02.webp[link="img/screenshots/freedm-0.12_02.webp"]
-image:img/screenshots/th_freedm-0.12_03.webp[link="img/screenshots/freedm-0.12_03.webp"]
-image:img/screenshots/th_freedm-0.12_04.webp[link="img/screenshots/freedm-0.12_04.webp"]
-image:img/screenshots/th_freedm-0.12_05.webp[link="img/screenshots/freedm-0.12_05.webp"]
-image:img/screenshots/th_freedm-0.12_06.webp[link="img/screenshots/freedm-0.12_06.webp"]
-image:img/screenshots/th_freedm-0.12_07.webp[link="img/screenshots/freedm-0.12_07.webp"]
-image:img/screenshots/th_freedm-0.12_08.webp[link="img/screenshots/freedm-0.12_08.webp"]
+image:img/screenshots/th_freedm-0.12_01.png[link="img/screenshots/freedm-0.12_01.png"]
+image:img/screenshots/th_freedm-0.12_02.png[link="img/screenshots/freedm-0.12_02.png"]
+image:img/screenshots/th_freedm-0.12_03.png[link="img/screenshots/freedm-0.12_03.png"]
+image:img/screenshots/th_freedm-0.12_04.png[link="img/screenshots/freedm-0.12_04.png"]
+image:img/screenshots/th_freedm-0.12_05.png[link="img/screenshots/freedm-0.12_05.png"]
+image:img/screenshots/th_freedm-0.12_06.png[link="img/screenshots/freedm-0.12_06.png"]
+image:img/screenshots/th_freedm-0.12_07.png[link="img/screenshots/freedm-0.12_07.png"]
+image:img/screenshots/th_freedm-0.12_08.png[link="img/screenshots/freedm-0.12_08.png"]
 
 == Copyright licenses for these screenshots
 
