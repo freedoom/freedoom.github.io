@@ -1,7 +1,7 @@
 = Home
 // See COPYING.adoc for license terms of this file.
 
-image::img/screenshots/th_phase2-0.12_04.webp[alt="Freedoom Screenshot",link="screenshots.html",float="right"]
+image::img/screenshots/th_phase2-0.12_04.png[alt="Freedoom Screenshot",link="screenshots.html",float="right"]
 
 The Freedoom project aims to create a complete
 https://www.gnu.org/philosophy/free-sw.html[free content] game based

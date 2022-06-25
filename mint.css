@@ -64,7 +64,7 @@ a:visited {
   text-align: right;
   color: #fff;
   font-size: 0pt;
-  background: url(img/logo.webp) no-repeat 0% 50%;
+  background: url(img/logo.png) no-repeat 0% 50%;
   width: 100%;
 }
 #header #forkme {
@@ -75,7 +75,7 @@ a:visited {
   border: 0;
 }
 body {
-  background-image: url(img/gradient.webp);
+  background-image: url(img/gradient.png);
   background-repeat: repeat-x;
   background-position: 0px 92px;
 }
