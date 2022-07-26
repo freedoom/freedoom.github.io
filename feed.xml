@@ -140,19 +140,19 @@
 &lt;/p&gt;&lt;p&gt;
 -1% armor bonus pickups are recolored from red to green. They were too easily confused for health pickups.
 &lt;/p&gt;&lt;p&gt;
-https://freedoom.github.ioNew TNT: Evilution-compatible textures.
+New TNT: Evilution-compatible textures.
 &lt;/p&gt;&lt;p&gt;
-https://freedoom.github.ioNew pain bringer and pain lord sprites, replacing old concept art-derived ones.
+New pain bringer and pain lord sprites, replacing old concept art-derived ones.
 &lt;/p&gt;&lt;p&gt;
-https://freedoom.github.ioA few map errors are fixed, including misaligned textures, leftover Boom specials, and it should no longer be possible to get stuck between a rock and a tree in Phase 1 C1M1.
+A few map errors are fixed, including misaligned textures, leftover Boom specials, and it should no longer be possible to get stuck between a rock and a tree in Phase 1 C1M1.
 &lt;/p&gt;&lt;p&gt;
-https://freedoom.github.ioBrand new Phase 1 C3M1, replacing an old Doom-inspired level.
+Brand new Phase 1 C3M1, replacing an old Doom-inspired level.
 &lt;/p&gt;&lt;p&gt;
-https://freedoom.github.ioWidescreen statusbar for ZDoom was removed. This created incompatibility with some mods, and mod compatibility is prefered over visual enhancements.
+Widescreen statusbar for ZDoom was removed. This created incompatibility with some mods, and mod compatibility is prefered over visual enhancements.
 &lt;/p&gt;&lt;p&gt;
-https://freedoom.github.ioFixed intermission text after using the secret exit in Phase 2 MAP31, where obituary texts were incorrectly displayed instead.
+Fixed intermission text after using the secret exit in Phase 2 MAP31, where obituary texts were incorrectly displayed instead.
 &lt;/p&gt;&lt;p&gt;
-https://freedoom.github.ioMore new music tracks, providing better vanilla compatibility.
+More new music tracks, providing better vanilla compatibility.
 			</description> 
 	</item>
 
