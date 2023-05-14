@@ -1,0 +1,8 @@
+# Common backup files.
+*.bak
+*.orig
+*.swp
+*~
+
+# A marker that indicates that the build was attempted at least once.
+/.built

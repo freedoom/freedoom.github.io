@@ -12,7 +12,7 @@
         <item>
         <title>2019-10-22: Freedoom 0.12.1 released</title>
         <pubDate>25 Jul 2022</pubDate>
-        <link>https://freedoom.github.io/#2019-10-22:%20Freedoom%200.12.1%20released</link>
+        <link>https://freedoom.github.io/#freedoom-0.12.1</link>
         <description>
         > General
 	  &lt;/p&gt;&lt;p&gt;
@@ -37,7 +37,7 @@
 <item>
         <title>2019-10-10: Freedoom 0.12.0 released</title>
         <pubDate>10 Oct 2019</pubDate>
-        <link>https://freedoom.github.io/#2019-10-10:%20Freedoom%200.12.0%20released</link>
+        <link>https://freedoom.github.io/#freedoom-0.12.0</link>
         <description>
         > General
 			&lt;/p&gt;&lt;p&gt;
@@ -106,7 +106,7 @@
 <item>
         <title>2017-07-18: Freedoom 0.11.3 released</title>
         <pubDate>18 Jul 2018</pubDate>
-        <link>https://freedoom.github.io/#2017-07-18:%20Freedoom%200.11.3%20released</link>
+        <link>https://freedoom.github.io/#freedoom-0.11.3</link>
         <description>
         This point release is only to allow building from source with DeuTex 5.0, and thus is considered unnecessary for any purpose other than distribution packaging. There are no level, sprite, sound, music, or other asset changes from 0.11.2.
 			</description> 
@@ -115,7 +115,7 @@
 <item>
         <title>2017-03-15: Freedoom 0.11.2 released</title>
         <pubDate>15 Mar 2017</pubDate>
-        <link>https://freedoom.github.io/#2017-03-15:%20Freedoom%200.11.2%20released</link>
+        <link>https://freedoom.github.io/#freedoom-0.11.2</link>
         <description>
         Solving a few more issues found in the previous release, this point release is more dry than the last one, but we hope that it just refines the game to make it better than before.
 &lt;/p&gt;&lt;p&gt;
@@ -134,7 +134,7 @@
 <item>
         <title>2017-02-22: Freedoom 0.11.1 released</title>
         <pubDate>22 Feb 2017</pubDate>
-        <link>https://freedoom.github.io/#2017-02-22:%20Freedoom%200.11.1%20released</link>
+        <link>https://freedoom.github.io/#freedoom-0.11.1</link>
         <description>
         We’ve had quite a good reception for 0.11 and are thankful to everyone sending feedback, both praise and criticism, we use it all for improving Freedoom further! This point release repairs a few deficiencies found in the 0.11 release, and adds new resources.
 &lt;/p&gt;&lt;p&gt;
@@ -159,7 +159,7 @@ More new music tracks, providing better vanilla compatibility.
 <item>
         <title>2017-02-16: Freedoom 0.11 released</title>
         <pubDate>16 Feb 2017</pubDate>
-        <link>xxx</link>
+        <link>https://freedoom.github.io/#freedoom-0.11</link>
         <description>
         Another year, and one of Freedoom's biggest updates has arrived! One of the major developments we’ve had is the elimination of Boom as the target engine for game support. While we are aiming for an eventual compatibility with Vanilla Doom, Freedoom should presently run on any limit-removing engine, which is nearly all of them.
 &lt;/p&gt;&lt;p&gt;
