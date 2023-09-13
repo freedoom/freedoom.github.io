@@ -5,14 +5,6 @@ Freedoom is always looking to improve.  This is a short list of some of
 the resources that the project may need.  If you can help out,
 please check the forum or Discord links in the sidebar to get in contact!
 
-== Musicians
-
-**OPL synth instruments**: If you like chiptunes, particularly for the
-Yamaha OPL2/OPL3 synth chips, then Freedoom needs instruments for its
-OPL MIDI instrument bank.  Check out the
-https://github.com/freedoom/freedoom/tree/master/lumps/genmidi[documentation]
-to find out more.
-
 == Level authors
 
 **Bugs**: Sometimes bugs get reported in Freedoom's levels.  Check out
