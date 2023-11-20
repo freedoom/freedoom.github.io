@@ -1,31 +1,11 @@
 = Help Freedoom!
 // See COPYING.adoc for license terms of this file.
 
-Freedoom is always looking for help.  This is a short list of some of
-the resources that the project is in need of.  If you can help out,
+Freedoom is always looking to improve.  This is a short list of some of
+the resources that the project may need.  If you can help out,
 please check the forum or Discord links in the sidebar to get in contact!
 
-== Musicians
-
-**In-level music**: Freedoom needs music for its levels. Presently
-some of the music tracks are serving double duty for multiple levels.
-FreeDM, the deathmatch spinoff project, also needs some appropriate
-music for its levels.
-
-**OPL synth instruments**: If you like chiptunes, particularly for the
-Yamaha OPL2/OPL3 synth chips, then Freedoom needs instruments for its
-OPL MIDI instrument bank.  Check out the
-https://github.com/freedoom/freedoom/tree/master/lumps/genmidi[documentation]
-to find out more.
-
 == Level authors
-
-**New levels**: Freedoom is still in need of new single player levels
-in order to get a complete set of levels.  If you see a level that is
-just a square room with an exit switch, that is a currently unfilled
-slot.  If you are experienced making Doom levels and can spend the
-time to make a level for Freedoom, or maybe you have levels you've
-made and can donate to the project, please get in touch.
 
 **Bugs**: Sometimes bugs get reported in Freedoom's levels.  Check out
 the https://github.com/freedoom/freedoom/labels/levels[bug list] to
@@ -56,5 +36,5 @@ Freedoom does not accept financial donations nor bug bounties.  While
 such desires to support us this way are appreciated, we do not have a
 present need for financial assistance with development or hosting.
 
-As an alternative, evangelize!  Spread the word of Freedoom and share
-your love for the game and encourage others to try it.
+Spread the word instead! Share your love for Freedoom
+and encourage others to try it.
