@@ -28,7 +28,6 @@ body {
 }
 a {
   color: #226;
-  text-decoration: none;
   background: #efe;
 }
 a:active {
@@ -42,6 +41,7 @@ a:visited {
 }
 #navigation a {
   background: none;
+  text-decoration: none;
 }
 
 /* the header of the page will occupy the top 96 pixels and all of the
