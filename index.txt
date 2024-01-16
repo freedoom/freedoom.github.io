@@ -13,6 +13,14 @@ _Doom_ fans and artists over the decades.
 
 For more information, see the link:about.html[What is Freedoom?] page.
 
+== Manual
+
+Freedoom has a manual that has been translated into various languages:
+
+  * link:freedoom-manual-en.pdf[Freedoom Manual In English]
+  * link:freedoom-manual-fr.pdf[Freedoom Manual In French]
+  * link:freedoom-manual-es.pdf[Freedoom Manual In Spanish]
+
 == Project News
 
 === link:#freedoom-0.12.1[2019-10-22: Freedoom 0.12.1 released][[freedoom-0.12.1]]
