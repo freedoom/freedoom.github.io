@@ -1,0 +1,5 @@
+= 404: Page Not Found
+
+Aggghh!!! The page you were looking for *could not be found*! If you think that this was something that we messed up on, https://github.com/freedoom/freedoom.github.io[please send us an issue/pull request on our GitHub].
+
+Until then, you can find your way back to safety by clicking on any of the links on the left-hand side.
