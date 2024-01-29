@@ -1,44 +1,103 @@
 = Screenshots
 // See COPYING.adoc for license terms of this file.
 
-== Phase 1 0.12
+// The naming convention for screenshot image files:
+//   * <phase>-<engine-name>-<map>-<description>-<version>.png
+//   * Each screenshot has a thumbnail with the same name, but prefixed with "th_".
+//   * Lower case.
+//   * Dash ("-") is preferred over underscore ("_").
+//   * Spaces are not supported.
 
-The following screenshots are from _Freedoom: Phase 1_ 0.12:
+// Aspect ratio, dimensions and filtering
+//   Traditional game engines, such as Chocolate Doom, produce 320x200
+//   screenshots that were intended to rendered on a display with pixels that
+//   are 1.2 times as tall as they are wide. However, since modern displays
+//   have square pixels the screens shots look a bit distorted (they appear
+//   shorter and wider than they should). To correct this the underlying
+//   screenshot is scaled up 5x horizontally, and 6x vertically, which has a
+//   ratio of 1.2, to produce a 1600x1200 pixel perfect representation of the
+//   screenshot, but with 5x6 pixel blocks that have the required height. To do
+//   this "-filter point" is passed to ImageMagick for Chocolate Doom only in
+//   order to disable the interpolation than normally happens when images are
+//   scaled. Alternatively the 320x200 screenshots can be scaled to 320x240 to
+//   give them the correct aspect ratio. Doing so is pixel perfect in the 
+//   horizontal direction only, which is what is done for the thumbnails.
+//
+//   Other game engines, such as GZDoom, assume square pixels, run at the full
+//   system resolution (1920x1080 is common) and use OpenGL and related
+//   technologies to interpolate between pixels. To accommodate this
+//   "-filter point" is not used for the GZDoom screenshots - the usual image
+//   scaling is allowed.
+//
+//   Timestamps (tIME chunks) are excluded from the thumbnails, but not the
+//   full images, so that rebuilding the thumbails only causes a file
+//   difference when the full image has changed. See the full image for the
+//   time.
 
-image:img/screenshots/th_phase1-0.12_01.png[link="img/screenshots/phase1-0.12_01.png"]
-image:img/screenshots/th_phase1-0.12_02.png[link="img/screenshots/phase1-0.12_02.png"]
-image:img/screenshots/th_phase1-0.12_03.png[link="img/screenshots/phase1-0.12_03.png"]
-image:img/screenshots/th_phase1-0.12_04.png[link="img/screenshots/phase1-0.12_04.png"]
-image:img/screenshots/th_phase1-0.12_05.png[link="img/screenshots/phase1-0.12_05.png"]
-image:img/screenshots/th_phase1-0.12_06.png[link="img/screenshots/phase1-0.12_06.png"]
-image:img/screenshots/th_phase1-0.12_07.png[link="img/screenshots/phase1-0.12_07.png"]
-image:img/screenshots/th_phase1-0.12_08.png[link="img/screenshots/phase1-0.12_08.png"]
+// The following Linux bash commands may be helpful.
+//
+// Append the version if it is not already appended:
+//   v=0.13.0; for p in $(ls -1 img/screenshots/*.png | grep -v ^th_ | grep -vP '\d+\.\d+\.png'); do mv -i $p ${p/.png/-$v.png}; done
+//
+// Generate thumbnails with a height of 240:
+//   rm -f img/screenshots/th_*.png; for p in $(ls -1 img/screenshots/*.png | grep -v ^th_); do if [[ $p == *chocolate* ]]; then opts="-filter point"; else opts=""; fi; convert $p -resize x240 -define png:exclude-chunk=tIME $opts img/screenshots/th_${p##*/}; done
+//
+// Output image links, which can be organized and placed below:
+//   for t in img/screenshots/th_*.png; do p=${t/th_/}; echo "image:$t[link=\"$p\"]"; done
 
-== Phase 2 0.12
+Since Freedoom is not a game engine multiple game engines are used here to
+showcase it. The raw Chocolate Doom screenshots are 320x200. They have an
+authentic 1990s FPS feel with crisp pixels. The raw GZDoom screenshots are
+1920x1080. They excel at small background details at the cost of blurry
+foreground details.
 
-The following screenshots are from _Freedoom: Phase 2_ 0.12:
+== Phase 1
 
-image:img/screenshots/th_phase2-0.12_01.png[link="img/screenshots/phase2-0.12_01.png"]
-image:img/screenshots/th_phase2-0.12_02.png[link="img/screenshots/phase2-0.12_02.png"]
-image:img/screenshots/th_phase2-0.12_03.png[link="img/screenshots/phase2-0.12_03.png"]
-image:img/screenshots/th_phase2-0.12_04.png[link="img/screenshots/phase2-0.12_04.png"]
-image:img/screenshots/th_phase2-0.12_05.png[link="img/screenshots/phase2-0.12_05.png"]
-image:img/screenshots/th_phase2-0.12_06.png[link="img/screenshots/phase2-0.12_06.png"]
-image:img/screenshots/th_phase2-0.12_07.png[link="img/screenshots/phase2-0.12_07.png"]
-image:img/screenshots/th_phase2-0.12_08.png[link="img/screenshots/phase2-0.12_08.png"]
+The following screenshots are from _Freedoom: Phase 1_ on Chocolate Doom:
 
-== FreeDM 0.12
+image:img/screenshots/th_phase1-chocolate-doom-e1m2-agm-0.13.0.png[link="img/screenshots/phase1-chocolate-doom-e1m2-agm-0.13.0.png"]
+image:img/screenshots/th_phase1-chocolate-doom-e2m2-shellbox-0.13.0.png[link="img/screenshots/phase1-chocolate-doom-e2m2-shellbox-0.13.0.png"]
+image:img/screenshots/th_phase1-chocolate-doom-e3m6-hatchling-0.13.0.png[link="img/screenshots/phase1-chocolate-doom-e3m6-hatchling-0.13.0.png"]
+image:img/screenshots/th_phase1-chocolate-doom-e4m1-courtyard-0.13.0.png[link="img/screenshots/phase1-chocolate-doom-e4m1-courtyard-0.13.0.png"]
 
-The following screenshots are from _FreeDM_ 0.12:
+The following screenshots are from _Freedoom: Phase 1_ on GZDoom:
 
-image:img/screenshots/th_freedm-0.12_01.png[link="img/screenshots/freedm-0.12_01.png"]
-image:img/screenshots/th_freedm-0.12_02.png[link="img/screenshots/freedm-0.12_02.png"]
-image:img/screenshots/th_freedm-0.12_03.png[link="img/screenshots/freedm-0.12_03.png"]
-image:img/screenshots/th_freedm-0.12_04.png[link="img/screenshots/freedm-0.12_04.png"]
-image:img/screenshots/th_freedm-0.12_05.png[link="img/screenshots/freedm-0.12_05.png"]
-image:img/screenshots/th_freedm-0.12_06.png[link="img/screenshots/freedm-0.12_06.png"]
-image:img/screenshots/th_freedm-0.12_07.png[link="img/screenshots/freedm-0.12_07.png"]
-image:img/screenshots/th_freedm-0.12_08.png[link="img/screenshots/freedm-0.12_08.png"]
+image:img/screenshots/th_phase1-gzdoom-e1m6-upstairs-0.13.0.png[link="img/screenshots/phase1-gzdoom-e1m6-upstairs-0.13.0.png"]
+image:img/screenshots/th_phase1-gzdoom-e2m8-tripods-0.13.0.png[link="img/screenshots/phase1-gzdoom-e2m8-tripods-0.13.0.png"]
+image:img/screenshots/th_phase1-gzdoom-e3m1-trilobites-worms-0.13.0.png[link="img/screenshots/phase1-gzdoom-e3m1-trilobites-worms-0.13.0.png"]
+image:img/screenshots/th_phase1-gzdoom-e3m3-pain-lord-0.13.0.png[link="img/screenshots/phase1-gzdoom-e3m3-pain-lord-0.13.0.png"]
+
+== Phase 2
+
+The following screenshots are from _Freedoom: Phase 2_ on Chocolate Doom:
+
+image:img/screenshots/th_phase2-chocolate-doom-map14-octaminator2-0.13.0.png[link="img/screenshots/phase2-chocolate-doom-map14-octaminator2-0.13.0.png"]
+image:img/screenshots/th_phase2-chocolate-doom-map14-octaminator3-0.13.0.png[link="img/screenshots/phase2-chocolate-doom-map14-octaminator3-0.13.0.png"]
+image:img/screenshots/th_phase2-chocolate-doom-map21-noisylibrary-0.13.0.png[link="img/screenshots/phase2-chocolate-doom-map21-noisylibrary-0.13.0.png"]
+image:img/screenshots/th_phase2-chocolate-doom-map25-minigunnerduel-0.13.0.png[link="img/screenshots/phase2-chocolate-doom-map25-minigunnerduel-0.13.0.png"]
+
+The following screenshots are from _Freedoom: Phase 2_ on GZDoom:
+
+image:img/screenshots/th_phase2-gzdoom-map05-shotgun-zombies-0.13.0.png[link="img/screenshots/phase2-gzdoom-map05-shotgun-zombies-0.13.0.png"]
+image:img/screenshots/th_phase2-gzdoom-map11-serpentipede-0.13.0.png[link="img/screenshots/phase2-gzdoom-map11-serpentipede-0.13.0.png"]
+image:img/screenshots/th_phase2-gzdoom-map26-mushrooms-0.13.0.png[link="img/screenshots/phase2-gzdoom-map26-mushrooms-0.13.0.png"]
+image:img/screenshots/th_phase2-gzdoom-map32-matribite-hatchling-0.13.0.png[link="img/screenshots/phase2-gzdoom-map32-matribite-hatchling-0.13.0.png"]
+
+== FreeDM
+
+The following screenshots are from _FreeDM_ on Chocolate Doom:
+
+image:img/screenshots/th_freedm-chocolate-doom-dm17-armor-0.13.0.png[link="img/screenshots/freedm-chocolate-doom-dm17-armor-0.13.0.png"]
+image:img/screenshots/th_freedm-chocolate-doom-dm18-super-shotgun-0.13.0.png[link="img/screenshots/freedm-chocolate-doom-dm18-super-shotgun-0.13.0.png"]
+image:img/screenshots/th_freedm-chocolate-doom-dm26-slime-0.13.0.png[link="img/screenshots/freedm-chocolate-doom-dm26-slime-0.13.0.png"]
+image:img/screenshots/th_freedm-chocolate-doom-dm31-fdm-door-0.13.0.png[link="img/screenshots/freedm-chocolate-doom-dm31-fdm-door-0.13.0.png"]
+
+The following screenshots are from _FreeDM_ on GZDoom:
+
+image:img/screenshots/th_freedm-gzdoom-dm01-banner-0.13.0.png[link="img/screenshots/freedm-gzdoom-dm01-banner-0.13.0.png"]
+image:img/screenshots/th_freedm-gzdoom-dm06-exit-0.13.0.png[link="img/screenshots/freedm-gzdoom-dm06-exit-0.13.0.png"]
+image:img/screenshots/th_freedm-gzdoom-dm21-banner-0.13.0.png[link="img/screenshots/freedm-gzdoom-dm21-banner-0.13.0.png"]
+image:img/screenshots/th_freedm-gzdoom-dm22-corner-0.13.0.png[link="img/screenshots/freedm-gzdoom-dm22-corner-0.13.0.png"]
 
 == Copyright licenses for these screenshots
 

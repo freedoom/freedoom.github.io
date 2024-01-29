@@ -10,7 +10,7 @@ from id Software.  The second is a multiplayer-focused experience for
 the popular ``deathmatch'' game mode.
 
 [horizontal]
-https://github.com/freedoom/freedoom/releases/download/v0.12.1/freedoom-0.12.1.zip[Freedoom: Phase 1+2]::
+https://github.com/freedoom/freedoom/releases/download/v0.13.0/freedoom-0.13.0.zip[Freedoom: Phase 1+2]::
 
     _Phase 1_ is the first part of the single-player game, containing
     four episodes which are nine levels each, smoothly paced for
@@ -25,7 +25,7 @@ https://github.com/freedoom/freedoom/releases/download/v0.12.1/freedoom-0.12.1.z
     more skillful play than the previous episodes.  It is compatible
     with mods for _Doom II_.
 
-https://github.com/freedoom/freedoom/releases/download/v0.12.1/freedm-0.12.1.zip[FreeDM]::
+https://github.com/freedoom/freedoom/releases/download/v0.13.0/freedm-0.13.0.zip[FreeDM]::
 
     _FreeDM_ is a fast-paced competitive deathmatch game, part of the
     Freedoom project.  Rather than the usual single-player focused
