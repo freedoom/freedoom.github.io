@@ -60,6 +60,9 @@ https://en.wikipedia.org/wiki/BSD_licenses[BSD license] - all that is
 required is that you include a short copyright statement that credits
 the _Freedoom_ project.
 
+For some examples of projects that have used _Freedoom_'s assets, take a
+look at the link:using.html[projects] page.
+
 
 ++++
 <div style="clear:both;"></div>
