@@ -35,20 +35,30 @@ https://github.com/freedoom/freedoom/releases/download/v0.13.0/freedm-0.13.0.zip
 == Engine
 
 _Freedoom_ requires the additional download of a game engine to
-play. The following engines are highly recommended by the _Freedoom_
-project:
+play. The following engines are recommended by the _Freedoom_ project:
 
 [horizontal]
-https://gzdoom.drdteam.org/[GZDoom]::
+https://www.chocolate-doom.org/wiki/index.php/Crispy_Doom[Crispy Doom]::
 
-    GZDoom is an advanced engine, with many features and extremely
-    high compatibility with the majority of mods released for _Doom_
-    and _Freedoom_.
+    Crispy Doom preserves most of the original _Doom_ engine's classic
+    look and feel while adding many quality-of-life modernizations.
+    Its parent project, https://www.chocolate-doom.org/[Chocolate Doom],
+    is much more faithful to the original DOS _Doom_ but is not recommended
+    for ordinary use as it replicates some unstable behavior.
 
-https://fabiangreffrath.github.io/crispy-doom[Crispy Doom]::
+https://eternity.youfailit.net/wiki/Main_Page[Eternity Engine]::
 
-    Crispy Doom is a minimalist engine, adding few extra features to
-    the engine while maintaining an old school feel.
+    Eternity Engine is a feature-rich engine with a significant amount of
+    customizability for more advanced level and gameplay modifications.
+
+https://zdoom.org/[GZDoom]::
+
+    GZDoom is an advanced _Doom_-engine-based general game development platform
+    with enormous customizability for both authors and players. Many mods
+    released for _Doom_ and _Freedoom_ have been developed around its unique
+    features. It does, however, deviate significantly from the original Doom
+    gameplay and aesthetics and cannot play any gameplay recordings (``demos'')
+    that would otherwise work with the _Doom_ engine.
 
 These engines, and https://doomwiki.org/wiki/Source_port[many others],
 are made possible thanks to the _Doom_ engine being released as

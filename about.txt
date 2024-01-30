@@ -3,27 +3,23 @@
 
 == A free FPS action game
 
-image::img/screenshots/th_phase1-0.12_02.png[alt="Freedoom Screenshot",link="img/screenshots/phase1-0.12_02.png",float="right"]
+image::img/screenshots/th_phase1-0.12_02.png[alt="Freedoom Screenshot",link="img/screenshots/th_phase1-chocolate-doom-e4m1-courtyard-0.13.0.png",float="right"]
 
-The Freedoom project aims to create a complete
-https://www.gnu.org/philosophy/free-sw.html[free content] first person
-shooter game.  But _Freedoom_ by itself is just the raw material for a
-game: it must be paired with a
-https://doomwiki.org/wiki/Category:Source_ports[compatible] game
-engine to be played.  The link:download.html[download] page lists some
-recommended ones.
+https://www.idsoftware.com/[id Software] has released the source code to their
+classic game https://en.wikipedia.org/wiki/Doom_(1993_video_game)[_Doom_]
+(under the https://www.gnu.org/licenses/old-licenses/gpl-2.0.html[GNU General
+Public License]). This means that the program code that powers _Doom_ is free,
+but the actual _content_ of _Doom_ - graphics, audio, levels, setting and characters -
+remains proprietary. The Freedoom project aims to fill this gap and create a complete
+https://www.gnu.org/philosophy/free-sw.html[free and libre] first person shooter game.
 
-https://www.idsoftware.com/[id Software] released the source code to
-their classic game,
-https://en.wikipedia.org/wiki/Doom_(1993_video_game)[_Doom_], under the
-https://www.gnu.org/licenses/old-licenses/gpl-2.0.html[GNU General
-Public License]. This means that the program code that powers
-_Doom_ is free; Freedoom complements this with free levels, artwork,
-sound effects and music to make a completely free game.
+By itself, _Freedoom_ is just the content of a game and must be paired with a
+https://doomwiki.org/wiki/Category:Source_ports[_Doom_-compatible] game engine
+to be played: the link:download.html[download] page lists some
+recommended programs.
 
-_Freedoom_ is actually three games in one, consisting of two single
-player campaigns and one set of levels intended for multiplayer
-deathmatch (_FreeDM_).
+_Freedoom_ is actually three entire games, consisting of two single-player
+campaigns and one set of levels intended for multiplayer deathmatch (_FreeDM_).
 
 ++++
 <div style="clear:both; height: 15px;"></div>

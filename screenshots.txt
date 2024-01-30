@@ -45,11 +45,12 @@
 // Output image links, which can be organized and placed below:
 //   for t in img/screenshots/th_*.png; do p=${t/th_/}; echo "image:$t[link=\"$p\"]"; done
 
-Since Freedoom is not a game engine multiple game engines are used here to
-showcase it. The raw Chocolate Doom screenshots are 320x200. They have an
-authentic 1990s FPS feel with crisp pixels. The raw GZDoom screenshots are
-1920x1080. They excel at small background details at the cost of blurry
-foreground details.
+Since Freedoom is not a game engine multiple game engines are used here
+to showcase it. The https://www.chocolate-doom.org/[Chocolate Doom] screenshots
+are based on 320x200 rendering output, scaled losslessly to 1600x1200 for an
+authentic 1990s FPS feel with crisp pixels. The https://zdoom.org/[GZDoom]
+screenshots are 1920x1080 with default pixel smoothing settings; they excel at small
+background details at the cost of blurry foreground details.
 
 == Phase 1
 

@@ -1,17 +1,15 @@
 = Home
 // See COPYING.adoc for license terms of this file.
 
-image::img/screenshots/th_phase2-0.12_04.png[alt="Freedoom Screenshot",link="screenshots.html",float="right"]
+image::img/screenshots/th_phase2-gzdoom-map11-serpentipede-0.13.0.png[alt="Freedoom Screenshot",link="screenshots.html",float="right"]
 
-The Freedoom project aims to create a complete
-https://www.gnu.org/philosophy/free-sw.html[free content] game based
-on the _Doom_ engine.
+The Freedoom project aims to provide all the content needed to form a complete,
+entirely https://www.gnu.org/philosophy/free-sw.html[free/libre] game for the _Doom_ engine. It is designed to be compatible
+with most custom levels, music, graphics and other modifications (``mods'')
+made for the original _Doom_ games by _Doom_ fans and artists over the decades.
 
-Combined with the engine, _Freedoom_ is also compatible with game
-modifications (``mods'') made for the original _Doom_ games, made by
-_Doom_ fans and artists over the decades.
+For more information, please see the link:about.html[What is Freedoom?] page.
 
-For more information, see the link:about.html[What is Freedoom?] page.
 
 == Manual
 
