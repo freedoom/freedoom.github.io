@@ -23,7 +23,7 @@ Freedoom has a manual that has been translated into various languages:
 
 == Project News
 
-=== link:#freedoom-0.13.0[2024-01-28: Freedoom 0.13.0 released][[freedoom-0.13.0]]
+=== link:#freedoom-0.13.0[2024-01-29: Freedoom 0.13.0 released][[freedoom-0.13.0]]
 ==== General
   * Improved vanilla compatibility.
   ** Boom features removed.
