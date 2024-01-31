@@ -8,9 +8,10 @@ image::img/screenshots/th_phase1-0.12_02.png[alt="Freedoom Screenshot",link="img
 In 1999 https://www.idsoftware.com/[id Software] released the source code to their
 classic game https://en.wikipedia.org/wiki/Doom_(1993_video_game)[_Doom_]
 (under the https://www.gnu.org/licenses/old-licenses/gpl-2.0.html[GNU General
-Public License]). This means that the _program code_ that powers _Doom_ is free,
-but the actual _content_ of _Doom_ - graphics, audio, levels, setting and characters -
-remains proprietary. The Freedoom project aims to fill this gap and create a complete
+Public License]). The game as a whole did not get this treatment, however, which
+means that while the _program code_ that powers _Doom_ is free, the actual
+_content_ of _Doom_ - graphics, audio, levels, setting and characters - remains
+proprietary. The Freedoom project aims to fill this gap and create a complete
 https://www.gnu.org/philosophy/free-sw.html[free and libre] first person shooter game.
 
 By itself, _Freedoom_ is just the content of a game and must be paired with a
