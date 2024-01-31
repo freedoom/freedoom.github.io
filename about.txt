@@ -5,10 +5,10 @@
 
 image::img/screenshots/th_phase1-0.12_02.png[alt="Freedoom Screenshot",link="img/screenshots/th_phase1-chocolate-doom-e4m1-courtyard-0.13.0.png",float="right"]
 
-https://www.idsoftware.com/[id Software] has released the source code to their
+In 1999 https://www.idsoftware.com/[id Software] released the source code to their
 classic game https://en.wikipedia.org/wiki/Doom_(1993_video_game)[_Doom_]
 (under the https://www.gnu.org/licenses/old-licenses/gpl-2.0.html[GNU General
-Public License]). This means that the program code that powers _Doom_ is free,
+Public License]). This means that the _program code_ that powers _Doom_ is free,
 but the actual _content_ of _Doom_ - graphics, audio, levels, setting and characters -
 remains proprietary. The Freedoom project aims to fill this gap and create a complete
 https://www.gnu.org/philosophy/free-sw.html[free and libre] first person shooter game.
@@ -18,8 +18,8 @@ https://doomwiki.org/wiki/Category:Source_ports[_Doom_-compatible] game engine
 to be played: the link:download.html[download] page lists some
 recommended programs.
 
-_Freedoom_ is actually three entire games, consisting of two single-player
-campaigns and one set of levels intended for multiplayer deathmatch (_FreeDM_).
+_Freedoom_ is actually three entire games, with two single-player
+campaigns and one collection of multiplayer deathmatch arenas (_FreeDM_).
 
 ++++
 <div style="clear:both; height: 15px;"></div>
@@ -31,7 +31,7 @@ youtube::Rc4zIP1S6-I[width=320,height=180,style="float:right;"]
 
 There is a massive decades-long
 https://doomwiki.org/wiki/Idgames_archive[back catalog] containing
-thousands of _Doom_ levels and other ``mods'' made by fans of the
+thousands of _Doom_ levels and other mods made by fans of the
 original game.  _Freedoom_ aims to be compatible with these and allows
 most to be played without the need to use non-free software.  The
 video to the right shows a _Doom_ mod running under _Freedoom_.
