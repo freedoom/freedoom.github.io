@@ -1,7 +1,7 @@
 {
   "freedm.wad": {
     "description": "Deathmatch IWAD",
-    "md5": "d40c932a9183ded919afa89f4a729668",
+    "md5": "908dfd77a14cc490c4cea94b62d13449",
     "name": "FreeDM",
     "url": "https://github.com/freedoom/freedoom/releases/download/v0.13.0/freedm-0.13.0.zip",
     "version": "0.13.0"
