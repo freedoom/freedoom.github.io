@@ -3,7 +3,7 @@
 
 == A free FPS action game
 
-image::img/screenshots/th_phase1-0.12_02.png[alt="Freedoom Screenshot",link="img/screenshots/th_phase1-chocolate-doom-e4m1-courtyard-0.13.0.png",float="right"]
+image::img/screenshots/th_phase1-0.12_02.png[alt="Freedoom Screenshot",link="screenshots.html",float="right"]
 
 In 1999 https://www.idsoftware.com/[id Software] released the source code to their
 classic game https://en.wikipedia.org/wiki/Doom_(1993_video_game)[_Doom_]
