@@ -57,8 +57,8 @@ music tracks that can be reused royalty-free by _Doom_ level authors
 and other independent game developers.
 
 _Freedoom_ is liberally licensed under the
-https://en.wikipedia.org/wiki/BSD_licenses[BSD license] - all that is
-required is that you include a short copyright statement that credits
+https://github.com/freedoom/freedoom/blob/master/COPYING.adoc[BSD license]
+- all you need is to include that same copyright statement and credit
 the _Freedoom_ project.
 
 For some examples of projects that have used _Freedoom_'s assets, take a
