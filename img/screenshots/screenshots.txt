@@ -1,0 +1,110 @@
+= Screenshots
+// See COPYING.adoc for license terms of this file.
+
+// The naming convention for screenshot image files:
+//   * <phase>-<engine-name>-<map>-<description>-<version>.png
+//   * Each screenshot has a thumbnail with the same name, but prefixed with "th_".
+//   * Lower case.
+//   * Dash ("-") is preferred over underscore ("_").
+//   * Spaces are not supported.
+
+// Aspect ratio, dimensions and filtering
+//   Traditional game engines, such as Chocolate Doom, produce 320x200
+//   screenshots that were intended to rendered on a display with pixels that
+//   are 1.2 times as tall as they are wide. However, since modern displays
+//   have square pixels the screens shots look a bit distorted (they appear
+//   shorter and wider than they should). To correct this the underlying
+//   screenshot is scaled up 5x horizontally, and 6x vertically, which has a
+//   ratio of 1.2, to produce a 1600x1200 pixel perfect representation of the
+//   screenshot, but with 5x6 pixel blocks that have the required height. To do
+//   this "-filter point" is passed to ImageMagick for Chocolate Doom only in
+//   order to disable the interpolation than normally happens when images are
+//   scaled. Alternatively the 320x200 screenshots can be scaled to 320x240 to
+//   give them the correct aspect ratio. Doing so is pixel perfect in the 
+//   horizontal direction only, which is what is done for the thumbnails.
+//
+//   Other game engines, such as GZDoom, assume square pixels, run at the full
+//   system resolution (1920x1080 is common) and use OpenGL and related
+//   technologies to interpolate between pixels. To accommodate this
+//   "-filter point" is not used for the GZDoom screenshots - the usual image
+//   scaling is allowed.
+//
+//   Timestamps (tIME chunks) are excluded from the thumbnails, but not the
+//   full images, so that rebuilding the thumbails only causes a file
+//   difference when the full image has changed. See the full image for the
+//   time.
+
+// The following Linux bash commands may be helpful.
+//
+// Append the version if it is not already appended:
+//   v=0.13.0; for p in $(ls -1 img/screenshots/*.png | grep -v ^th_ | grep -vP '\d+\.\d+\.png'); do mv -i $p ${p/.png/-$v.png}; done
+//
+// Generate thumbnails with a height of 240:
+//   rm -f img/screenshots/th_*.png; for p in $(ls -1 img/screenshots/*.png | grep -v ^th_); do if [[ $p == *chocolate* ]]; then opts="-filter point"; else opts=""; fi; convert $p -resize x240 -define png:exclude-chunk=tIME $opts img/screenshots/th_${p##*/}; done
+//
+// Output image links, which can be organized and placed below:
+//   for t in img/screenshots/th_*.png; do p=${t/th_/}; echo "image:$t[link=\"$p\"]"; done
+
+Since Freedoom is not a game engine multiple game engines are used here
+to showcase it. The https://www.chocolate-doom.org/[Chocolate Doom] screenshots
+are based on 320x200 rendering output, scaled losslessly to 1600x1200 for an
+authentic 1990s FPS feel with crisp pixels. The https://zdoom.org/[GZDoom]
+screenshots can be whatever settings the screenshot-taker wants (e.g.,
+setting https://zdoom.org/wiki/CVARs:Display#gl_texture_filter"[gl_texture_filter] to 6 to un-blur nearby sprite and
+texture pixels), though the thumbnails will be cropped to 320x240
+to match the Chocolate.
+
+== Phase 1
+
+The following screenshots are from _Freedoom: Phase 1_ on Chocolate Doom:
+
+image:img/screenshots/tn_p1_1.jpg[link="img/screenshots/p1_1.png"]
+image:img/screenshots/tn_p1_2.jpg[link="img/screenshots/p1_2.png"]
+image:img/screenshots/tn_p1_3.jpg[link="img/screenshots/p1_3.png"]
+image:img/screenshots/tn_p1_4.jpg[link="img/screenshots/p1_4.png"]
+
+The following screenshots are from _Freedoom: Phase 1_ on GZDoom:
+
+image:img/screenshots/tn_p1_5.jpg[link="img/screenshots/p1_5.jpg"]
+image:img/screenshots/tn_p1_6.jpg[link="img/screenshots/p1_6.jpg"]
+image:img/screenshots/tn_p1_7.jpg[link="img/screenshots/p1_7.jpg"]
+image:img/screenshots/tn_p1_8.jpg[link="img/screenshots/p1_8.jpg"]
+
+== Phase 2
+
+The following screenshots are from _Freedoom: Phase 2_ on Chocolate Doom:
+
+image:img/screenshots/tn_p2_1.jpg[link="img/screenshots/p2_1.png"]
+image:img/screenshots/tn_p2_2.jpg[link="img/screenshots/p2_2.png"]
+image:img/screenshots/tn_p2_3.jpg[link="img/screenshots/p2_3.png"]
+image:img/screenshots/tn_p2_4.jpg[link="img/screenshots/p2_4.png"]
+
+The following screenshots are from _Freedoom: Phase 2_ on GZDoom:
+
+image:img/screenshots/tn_p2_5.jpg[link="img/screenshots/p2_5.jpg"]
+image:img/screenshots/tn_p2_6.jpg[link="img/screenshots/p2_6.jpg"]
+image:img/screenshots/tn_p2_7.jpg[link="img/screenshots/p2_7.jpg"]
+image:img/screenshots/tn_p2_8.jpg[link="img/screenshots/p2_8.jpg"]
+
+== FreeDM
+
+The following screenshots are from _FreeDM_ on Chocolate Doom:
+
+image:img/screenshots/tn_dm_1.jpg[link="img/screenshots/dm_1.png"]
+image:img/screenshots/tn_dm_2.jpg[link="img/screenshots/dm_2.png"]
+image:img/screenshots/tn_dm_3.jpg[link="img/screenshots/dm_3.png"]
+image:img/screenshots/tn_dm_4.jpg[link="img/screenshots/dm_4.png"]
+
+The following screenshots are from _FreeDM_ on GZDoom:
+
+image:img/screenshots/tn_dm_5.jpg[link="img/screenshots/dm_5.jpg"]
+image:img/screenshots/tn_dm_6.jpg[link="img/screenshots/dm_6.jpg"]
+image:img/screenshots/tn_dm_7.jpg[link="img/screenshots/dm_7.jpg"]
+image:img/screenshots/tn_dm_8.jpg[link="img/screenshots/dm_8.jpg"]
+
+== Copyright licenses for these screenshots
+
+These screenshots are all available for reuse under the same license
+as _Freedoom_ itself, which may be found at
+https://github.com/freedoom/freedoom/blob/master/COPYING.adoc[+COPYING.adoc+]
+(+COPYING.txt+ in compiled zip files) in the _Freedoom_ source tree.
