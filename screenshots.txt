@@ -49,56 +49,58 @@ Since Freedoom is not a game engine multiple game engines are used here
 to showcase it. The https://www.chocolate-doom.org/[Chocolate Doom] screenshots
 are based on 320x200 rendering output, scaled losslessly to 1600x1200 for an
 authentic 1990s FPS feel with crisp pixels. The https://zdoom.org/[GZDoom]
-screenshots are 1920x1080 with default pixel smoothing settings; they excel at small
-background details at the cost of blurry foreground details.
+screenshots can be whatever settings the screenshot-taker wants (e.g.,
+setting https://zdoom.org/wiki/CVARs:Display#gl_texture_filter"[gl_texture_filter] to 6 to un-blur nearby sprite and
+texture pixels), though the thumbnails will be cropped to 320x240
+to match the Chocolate.
 
 == Phase 1
 
 The following screenshots are from _Freedoom: Phase 1_ on Chocolate Doom:
 
-image:img/screenshots/th_phase1-chocolate-doom-e1m2-agm-0.13.0.jpg[link="img/screenshots/phase1-chocolate-doom-e1m2-agm-0.13.0.png"]
-image:img/screenshots/th_phase1-chocolate-doom-e2m2-shellbox-0.13.0.jpg[link="img/screenshots/phase1-chocolate-doom-e2m2-shellbox-0.13.0.png"]
-image:img/screenshots/th_phase1-chocolate-doom-e3m6-hatchling-0.13.0.jpg[link="img/screenshots/phase1-chocolate-doom-e3m6-hatchling-0.13.0.png"]
-image:img/screenshots/th_phase1-chocolate-doom-e4m1-courtyard-0.13.0.jpg[link="img/screenshots/phase1-chocolate-doom-e4m1-courtyard-0.13.0.png"]
+image:img/screenshots/tn_p1_1.jpg[link="img/screenshots/p1_1.png"]
+image:img/screenshots/tn_p1_2.jpg[link="img/screenshots/p1_2.png"]
+image:img/screenshots/tn_p1_3.jpg[link="img/screenshots/p1_3.png"]
+image:img/screenshots/tn_p1_4.jpg[link="img/screenshots/p1_4.png"]
 
 The following screenshots are from _Freedoom: Phase 1_ on GZDoom:
 
-image:img/screenshots/th_phase1-gzdoom-e1m6-upstairs-0.13.0.jpg[link="img/screenshots/phase1-gzdoom-e1m6-upstairs-0.13.0.jpg"]
-image:img/screenshots/th_phase1-gzdoom-e2m8-tripods-0.13.0.jpg[link="img/screenshots/phase1-gzdoom-e2m8-tripods-0.13.0.jpg"]
-image:img/screenshots/th_phase1-gzdoom-e3m1-trilobites-worms-0.13.0.jpg[link="img/screenshots/phase1-gzdoom-e3m1-trilobites-worms-0.13.0.jpg"]
-image:img/screenshots/th_phase1-gzdoom-e3m3-pain-lord-0.13.0.jpg[link="img/screenshots/phase1-gzdoom-e3m3-pain-lord-0.13.0.jpg"]
+image:img/screenshots/tn_p1_5.jpg[link="img/screenshots/p1_5.jpg"]
+image:img/screenshots/tn_p1_6.jpg[link="img/screenshots/p1_6.jpg"]
+image:img/screenshots/tn_p1_7.jpg[link="img/screenshots/p1_7.jpg"]
+image:img/screenshots/tn_p1_8.jpg[link="img/screenshots/p1_8.jpg"]
 
 == Phase 2
 
 The following screenshots are from _Freedoom: Phase 2_ on Chocolate Doom:
 
-image:img/screenshots/th_phase2-chocolate-doom-map14-octaminator2-0.13.0.jpg[link="img/screenshots/phase2-chocolate-doom-map14-octaminator2-0.13.0.png"]
-image:img/screenshots/th_phase2-chocolate-doom-map14-octaminator3-0.13.0.jpg[link="img/screenshots/phase2-chocolate-doom-map14-octaminator3-0.13.0.png"]
-image:img/screenshots/th_phase2-chocolate-doom-map21-noisylibrary-0.13.0.jpg[link="img/screenshots/phase2-chocolate-doom-map21-noisylibrary-0.13.0.png"]
-image:img/screenshots/th_phase2-chocolate-doom-map25-minigunnerduel-0.13.0.jpg[link="img/screenshots/phase2-chocolate-doom-map25-minigunnerduel-0.13.0.png"]
+image:img/screenshots/tn_p2_1.jpg[link="img/screenshots/p2_1.png"]
+image:img/screenshots/tn_p2_2.jpg[link="img/screenshots/p2_2.png"]
+image:img/screenshots/tn_p2_3.jpg[link="img/screenshots/p2_3.png"]
+image:img/screenshots/tn_p2_4.jpg[link="img/screenshots/p2_4.png"]
 
 The following screenshots are from _Freedoom: Phase 2_ on GZDoom:
 
-image:img/screenshots/th_phase2-gzdoom-map05-shotgun-zombies-0.13.0.jpg[link="img/screenshots/phase2-gzdoom-map05-shotgun-zombies-0.13.0.jpg"]
-image:img/screenshots/th_phase2-gzdoom-map11-serpentipede-0.13.0.jpg[link="img/screenshots/phase2-gzdoom-map11-serpentipede-0.13.0.jpg"]
-image:img/screenshots/th_phase2-gzdoom-map26-mushrooms-0.13.0.jpg[link="img/screenshots/phase2-gzdoom-map26-mushrooms-0.13.0.jpg"]
-image:img/screenshots/th_phase2-gzdoom-map32-matribite-hatchling-0.13.0.jpg[link="img/screenshots/phase2-gzdoom-map32-matribite-hatchling-0.13.0.jpg"]
+image:img/screenshots/tn_p2_5.jpg[link="img/screenshots/p2_5.jpg"]
+image:img/screenshots/tn_p2_6.jpg[link="img/screenshots/p2_6.jpg"]
+image:img/screenshots/tn_p2_7.jpg[link="img/screenshots/p2_7.jpg"]
+image:img/screenshots/tn_p2_8.jpg[link="img/screenshots/p2_8.jpg"]
 
 == FreeDM
 
 The following screenshots are from _FreeDM_ on Chocolate Doom:
 
-image:img/screenshots/th_freedm-chocolate-doom-dm17-armor-0.13.0.jpg[link="img/screenshots/freedm-chocolate-doom-dm17-armor-0.13.0.png"]
-image:img/screenshots/th_freedm-chocolate-doom-dm18-super-shotgun-0.13.0.jpg[link="img/screenshots/freedm-chocolate-doom-dm18-super-shotgun-0.13.0.png"]
-image:img/screenshots/th_freedm-chocolate-doom-dm26-slime-0.13.0.jpg[link="img/screenshots/freedm-chocolate-doom-dm26-slime-0.13.0.png"]
-image:img/screenshots/th_freedm-chocolate-doom-dm31-fdm-door-0.13.0.jpg[link="img/screenshots/freedm-chocolate-doom-dm31-fdm-door-0.13.0.png"]
+image:img/screenshots/tn_dm_1.jpg[link="img/screenshots/dm_1.png"]
+image:img/screenshots/tn_dm_2.jpg[link="img/screenshots/dm_2.png"]
+image:img/screenshots/tn_dm_3.jpg[link="img/screenshots/dm_3.png"]
+image:img/screenshots/tn_dm_4.jpg[link="img/screenshots/dm_4.png"]
 
 The following screenshots are from _FreeDM_ on GZDoom:
 
-image:img/screenshots/th_freedm-gzdoom-dm01-banner-0.13.0.jpg[link="img/screenshots/freedm-gzdoom-dm01-banner-0.13.0.jpg"]
-image:img/screenshots/th_freedm-gzdoom-dm06-exit-0.13.0.jpg[link="img/screenshots/freedm-gzdoom-dm06-exit-0.13.0.jpg"]
-image:img/screenshots/th_freedm-gzdoom-dm21-banner-0.13.0.jpg[link="img/screenshots/freedm-gzdoom-dm21-banner-0.13.0.jpg"]
-image:img/screenshots/th_freedm-gzdoom-dm22-corner-0.13.0.jpg[link="img/screenshots/freedm-gzdoom-dm22-corner-0.13.0.jpg"]
+image:img/screenshots/tn_dm_5.jpg[link="img/screenshots/dm_5.jpg"]
+image:img/screenshots/tn_dm_6.jpg[link="img/screenshots/dm_6.jpg"]
+image:img/screenshots/tn_dm_7.jpg[link="img/screenshots/dm_7.jpg"]
+image:img/screenshots/tn_dm_8.jpg[link="img/screenshots/dm_8.jpg"]
 
 == Copyright licenses for these screenshots
 
