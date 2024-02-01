@@ -63,10 +63,10 @@ image:img/screenshots/tn_p1_4.jpg[link="img/screenshots/p1_4.png"]
 
 The following screenshots are from _Freedoom: Phase 1_ on GZDoom:
 
-image:img/screenshots/tn_p1_5.jpg[link="img/screenshots/p1_5.png"]
-image:img/screenshots/tn_p1_6.jpg[link="img/screenshots/p1_6.png"]
-image:img/screenshots/tn_p1_7.jpg[link="img/screenshots/p1_7.png"]
-image:img/screenshots/tn_p1_8.jpg[link="img/screenshots/p1_8.png"]
+image:img/screenshots/tn_p1_5.jpg[link="img/screenshots/p1_5.jpg"]
+image:img/screenshots/tn_p1_6.jpg[link="img/screenshots/p1_6.jpg"]
+image:img/screenshots/tn_p1_7.jpg[link="img/screenshots/p1_7.jpg"]
+image:img/screenshots/tn_p1_8.jpg[link="img/screenshots/p1_8.jpg"]
 
 == Phase 2
 
@@ -79,10 +79,10 @@ image:img/screenshots/tn_p2_4.jpg[link="img/screenshots/p2_4.png"]
 
 The following screenshots are from _Freedoom: Phase 2_ on GZDoom:
 
-image:img/screenshots/tn_p2_5.jpg[link="img/screenshots/p2_5.png"]
-image:img/screenshots/tn_p2_6.jpg[link="img/screenshots/p2_6.png"]
-image:img/screenshots/tn_p2_7.jpg[link="img/screenshots/p2_7.png"]
-image:img/screenshots/tn_p2_8.jpg[link="img/screenshots/p2_8.png"]
+image:img/screenshots/tn_p2_5.jpg[link="img/screenshots/p2_5.jpg"]
+image:img/screenshots/tn_p2_6.jpg[link="img/screenshots/p2_6.jpg"]
+image:img/screenshots/tn_p2_7.jpg[link="img/screenshots/p2_7.jpg"]
+image:img/screenshots/tn_p2_8.jpg[link="img/screenshots/p2_8.jpg"]
 
 == FreeDM
 
@@ -95,10 +95,10 @@ image:img/screenshots/tn_dm_4.jpg[link="img/screenshots/dm_4.png"]
 
 The following screenshots are from _FreeDM_ on GZDoom:
 
-image:img/screenshots/tn_dm_5.jpg[link="img/screenshots/dm_5.png"]
-image:img/screenshots/tn_dm_6.jpg[link="img/screenshots/dm_6.png"]
-image:img/screenshots/tn_dm_7.jpg[link="img/screenshots/dm_7.png"]
-image:img/screenshots/tn_dm_8.jpg[link="img/screenshots/dm_8.png"]
+image:img/screenshots/tn_dm_5.jpg[link="img/screenshots/dm_5.jpg"]
+image:img/screenshots/tn_dm_6.jpg[link="img/screenshots/dm_6.jpg"]
+image:img/screenshots/tn_dm_7.jpg[link="img/screenshots/dm_7.jpg"]
+image:img/screenshots/tn_dm_8.jpg[link="img/screenshots/dm_8.jpg"]
 
 == Copyright licenses for these screenshots
 
