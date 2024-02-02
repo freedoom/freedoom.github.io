@@ -1,7 +1,7 @@
 = Home
 // See COPYING.adoc for license terms of this file.
 
-image::img/screenshots/th_phase2-gzdoom-map11-serpentipede-0.13.0.jpg[alt="Freedoom Screenshot",link="screenshots.html",float="right"]
+image::img/screenshots/tn_p1_3.jpg[alt="Freedoom Screenshot",link="screenshots.html",float="right"]
 
 The Freedoom project aims to provide all the content needed to form a complete,
 entirely https://www.gnu.org/philosophy/free-sw.html[free/libre] game for the _Doom_ engine. It is designed to be compatible
