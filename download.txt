@@ -32,6 +32,10 @@ https://github.com/freedoom/freedoom/releases/download/v0.13.0/freedm-0.13.0.zip
     levels, these contain no monsters and are intended for deathmatch
     only.  It is compatible with mods for _Doom II_.
 
+To verify the ZIP files linked to above check out the assets attached to https://github.com/freedoom/freedoom/releases/tag/v0.13.0[the release], which includes the digital signatures and checksums / hashes.
+
+{empty} +
+
 == Engine
 
 _Freedoom_ requires the additional download of a game engine to
