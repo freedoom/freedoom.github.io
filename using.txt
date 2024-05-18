@@ -16,7 +16,8 @@ https://github.com/freedoom/freedoom.github.io[website project at GitHub].
 
 == Standalone Games
 
- * https://github.com/Blasphemer[Blasphemer] - a project to do for _Heretic_ what _Freedoom_ does for _Doom_.
+ * https://github.com/Catoptromancy/blasphemer[Blasphemer] - a project to do for _Heretic_ what _Freedoom_ does for _Doom_.
+ * https://librequake.queer.sh[LibreQuake] - a project to do for _Quake_ what _Freedoom_ does for _Doom_.
  * http://contest.gamedevfort.com/submission/657#.Ve8jwpcQlj0[Nocturne In Yellow] - a fantasy medieval first-person shooter where "you play as a dude marching through ancient castles with the realization that every myth and story ever made in the history of man is true and all of them are pissed off at you for having a pulse and four functional limbs."
  * https://filmsbykris.com/games/2021/cyber-griffin/website[Cyber Griffin] - a _Freedoom_-based sidescroller.
  * http://www.indiedb.com/games/terrorized[Terrorized] - a horror action RPG FPS.
@@ -28,3 +29,4 @@ https://github.com/freedoom/freedoom.github.io[website project at GitHub].
 
  * https://zdoom.org/wiki/Barista[Barista] - a ZDoom mod ``inspired by the _Doom_ Bible, _Marathon_ and _Half-Life_. It uses resources derived from _Freedoom_ and various other sources, enough to replace everything needed by the single map and therefore work as a stand-alone.''
  * https://codeberg.org/mc776/hideousdestructor[Hideous Destructor] - a GZDoom mod for both _Doom_ and _Freedoom_ that leans into the speculative fiction aspects of the monsters and weapons, with the side effect of turning the gameplay into a tactical simulation-style shooter with some parkour elements.
+ * https://zdoom.org/wiki/Knee-Deep_in_ZDoom[Knee-Deep in ZDoom] - a Cacoward-winning community remake of _Doom_'s first episode, Knee-Deep in the Dead, utilizing the advanced features of ZDoom.
