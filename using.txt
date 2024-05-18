@@ -29,4 +29,4 @@ https://github.com/freedoom/freedoom.github.io[website project at GitHub].
 
  * https://zdoom.org/wiki/Barista[Barista] - a ZDoom mod ``inspired by the _Doom_ Bible, _Marathon_ and _Half-Life_. It uses resources derived from _Freedoom_ and various other sources, enough to replace everything needed by the single map and therefore work as a stand-alone.''
  * https://codeberg.org/mc776/hideousdestructor[Hideous Destructor] - a GZDoom mod for both _Doom_ and _Freedoom_ that leans into the speculative fiction aspects of the monsters and weapons, with the side effect of turning the gameplay into a tactical simulation-style shooter with some parkour elements.
- * https://zdoom.org/wiki/Knee-Deep_in_ZDoom[Knee-Deep in ZDoom] - a Cacoward-winning community remake of Doom's first episode, Knee-Deep in the Dead, utilizing the advanced features of ZDoom.
+ * https://zdoom.org/wiki/Knee-Deep_in_ZDoom[Knee-Deep in ZDoom] - a Cacoward-winning community remake of _Doom_'s first episode, Knee-Deep in the Dead, utilizing the advanced features of ZDoom.
