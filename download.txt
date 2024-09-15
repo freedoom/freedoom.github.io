@@ -64,6 +64,15 @@ https://zdoom.org/[GZDoom]::
     gameplay and aesthetics and cannot play any gameplay recordings (``demos'')
     that would otherwise work with the _Doom_ engine.
 
+https://odamex.net/[Odamex]::
+
+    Odamex is a fully-featured _Doom_ source port supporting both vanilla compatibility 
+    and enhanced features. It has been designed to allow client/server-based Doom 
+    gameplay over the Internet or LAN with advanced networking features, such as 
+    packet compression, or unlagged. Odamex is also the only GNU GPL-licensed true 
+    client/server port available. Odamex supports Freedoom out-of-the-box, allowing 
+    both phases and FreeDM to be selected as games from the menu.
+
 These engines, and https://doomwiki.org/wiki/Source_port[many others],
 are made possible thanks to the _Doom_ engine being released as
 https://www.gnu.org/philosophy/free-sw.html[free software] in 1997.
