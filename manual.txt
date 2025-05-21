@@ -1,0 +1,13 @@
+= Freedoom Manual
+// See COPYING.adoc for license terms of this file.
+
+Freedoom now has a manual in PDF format that is available in multiple
+languages:
+
+  * link:freedoom-manual-en.pdf[Freedoom Manual In English]
+  * link:freedoom-manual-fr.pdf[Freedoom Manual In French]
+  * link:freedoom-manual-es.pdf[Freedoom Manual In Spanish]
+
+We are interested in translating Freedoom's manual into more languages. If you
+speak other languages not listed above, we could use your help! Join the
+Freedoom Discord and ask how you can help out.
