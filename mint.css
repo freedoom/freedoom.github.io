@@ -15,6 +15,10 @@ p {
   padding-bottom: 0.5em;
 }
 
+li > p {
+  padding-top: 0;
+  padding-bottom: 0;
+}
 /* some basics: a colour and font settings */
 body {
   background-color: #c6dcd1;
