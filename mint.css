@@ -19,7 +19,7 @@ p {
 body {
   background-color: #c6dcd1;
   font-family: sans-serif;
-  font-size: small;
+  font-size: normal;
 }
 a {
   color: #226;
@@ -81,7 +81,7 @@ body {
   position: absolute;
   margin-top: 0;
   top: 128px;
-  left: 200px;
+  left: 230px;
   margin-left: 16px;
 }
 /* style */
@@ -94,7 +94,7 @@ body {
   height: 24px;
 
   font-weight: bold;
-  font-size: 11pt;
+  font-size: 14pt;
   vertical-align: middle;
   text-align: center;
   padding-left: 1em;
