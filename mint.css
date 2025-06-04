@@ -1,19 +1,14 @@
 @import url(layout.css);
 
 /* stop header elements from pushing divs apart */
-p,
-h1,
-h2 {
+p, h1, h2 {
   margin: 0;
   padding-top: 0;
 }
-h3,
-h4,
-h5,
-h6 {
+
+h2, h3, h4, h5, h6 {
   margin: 0;
-  padding-top: 0.5em;
-  padding-bottom: 0.5em;
+  margin-top: 15px;
 }
 p {
   padding-top: 0.5em;
@@ -84,6 +79,7 @@ body {
 }
 #header #page {
   position: absolute;
+  margin-top: 0;
   top: 128px;
   left: 200px;
   margin-left: 16px;
@@ -103,6 +99,7 @@ body {
   text-align: center;
   padding-left: 1em;
   padding-right: 1em;
+  margin-top: 0;
 }
 .nav h3 {
   width: 50%;
@@ -123,6 +120,10 @@ body {
 }
 html > body #main {
   margin-top: 62px;
+}
+
+ul {
+  margin: 0;
 }
 
 .nav ul {
