@@ -19,6 +19,11 @@ li > p {
   padding-top: 0;
   padding-bottom: 0;
 }
+
+hr {
+  clear: both;
+}
+
 /* some basics: a colour and font settings */
 body {
   background-color: #c6dcd1;

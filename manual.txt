@@ -11,3 +11,14 @@ languages:
 We are interested in translating Freedoom's manual into more languages. If you
 speak other languages not listed above, we could use your help! Join the
 Freedoom Discord and ask how you can help out.
+
+image::img/printed-freedoom-manual.jpg[alt="Photo of printed Freedoom manual",float="right",width="200px"]
+
+== Printed manuals
+
+Printed copies of the manual are now available to purchase on Lulu.com. Click
+below to purchase your copy.
+
+  * link:https://www.lulu.com/shop/simon-howard/freedoom-manual-english/paperback/product-zmykn7d.html[Freedoom Manual (English)]
+  * link:https://www.lulu.com/shop/simon-howard/freedoom-manual-espa%C3%B1ol/paperback/product-9596pqz.html[Freedoom Manual (Español)]
+  * link:https://www.lulu.com/shop/simon-howard/freedoom-manual-fran%C3%A7ais/paperback/product-rm6zygy.html[Freedoom Manual (Français)]
