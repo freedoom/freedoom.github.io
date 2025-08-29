@@ -16,6 +16,7 @@ https://github.com/freedoom/freedoom.github.io[website project at GitHub].
 
 == Standalone Games
 
+ * https://store.steampowered.com/app/3277520/Berserkers_Domain/[Berserker's Domain] - retro FPS Roguelike built in _Godot_ that uses _Freedoom_ textures and parts of level geometry.
  * https://github.com/Blasphemer[Blasphemer] - a project to do for _Heretic_ what _Freedoom_ does for _Doom_.
  * http://contest.gamedevfort.com/submission/657#.Ve8jwpcQlj0[Nocturne In Yellow] - a fantasy medieval first-person shooter where "you play as a dude marching through ancient castles with the realization that every myth and story ever made in the history of man is true and all of them are pissed off at you for having a pulse and four functional limbs."
  * https://filmsbykris.com/games/2021/cyber-griffin/website[Cyber Griffin] - a _Freedoom_-based sidescroller.
